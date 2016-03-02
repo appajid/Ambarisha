@@ -27,21 +27,21 @@ ModificationTime: 1448354147
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 200
+LineGap: 0
 VLineGap: 0
 Panose: 2 0 0 0 0 0 0 0 0 0
-OS2TypoAscent: 750
+OS2TypoAscent: 878
 OS2TypoAOffset: 0
-OS2TypoDescent: -250
+OS2TypoDescent: -698
 OS2TypoDOffset: 0
-OS2TypoLinegap: 200
-OS2WinAscent: 850
+OS2TypoLinegap: 0
+OS2WinAscent: 878
 OS2WinAOffset: 0
-OS2WinDescent: 350
+OS2WinDescent: 698
 OS2WinDOffset: 0
-HheadAscent: 750
+HheadAscent: 878
 HheadAOffset: 0
-HheadDescent: -250
+HheadDescent: -698
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 600
@@ -84,7 +84,7 @@ ChainSub2: coverage "'pres' Pre Base Substitutions lookup 4 subtable" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution lookup 8"
 EndFPST
-LangName: 1033 "Copyright (c) 2015 Appaji Ambarisha Darbha" "" "" "" "" "Version 1.000;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900 DEVELOPMENT" "" "" "Appaji Ambarisha Darbha" "Appaji Ambarisha Darbha" "" "http://www.adityafonts.com" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "KelvinKannada"
+LangName: 1033 "Copyright (c) 2011 The Ambarisha Project Authors." "" "" "" "" "Version 1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900" "" "" "Appaji Ambarisha Darbha" "Appaji Ambarisha Darbha" "" "http://www.adityafonts.com" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Ambarisha"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
