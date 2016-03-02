@@ -1,2 +1,5 @@
-# Kelvin-Kannada
-A Unicode Kannada Font named after famous Kannada Actor and Politician Sri Ambarisha with condensed look suitable for text and paragraph with matching Latin characters.
+# Ambarisha
+
+Ambarisha is a Unicode font that supports the Kannada and Latin scripts. 
+It is named after the famous Kannada actor and politician Sri Ambarisha.  
+It is condensed and casual, and it suitable for text and paragraphs.
