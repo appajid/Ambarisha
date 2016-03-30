@@ -1,8 +1,8 @@
 # Ambarisha
 
 Ambarisha is a Unicode font that supports the Kannada and Latin scripts. 
-It is named after the famous Kannada actor and politician Ambarisha. 
+It is named after the famous Kannada actor and politician Ambarisha.
 
-Ambarisha is a clean comic display typeface. It takes inspiration from large hand-lettered event signage created by the authors, but takes only the form, not the texture of the physical painted glyphs. The signage design itself was created to be legible and firm, but also cute, with the same round contours and gentle shapes present in much smaller-sized handwriting. Ambarisha is optimized for the web and on-screen display, dispensing with minute fractals that would muddy the pixel display. Yet its contours contain subtle flair and direction that gives the typeface a unique character at all sizes, disrupting conformity without interrupting regularity. Equal amounts of care and consideration have been poured into the design of the numerous special and punctuation glyphs in the typeface, making Ambarisha a truly multirange typographical design. Ambarisha was designed to function as a display typeface to be used at large sizes, but its open contours and simple skeletal design make it legible at text sizes as well.
+Ambarisha is a clean condensed sans typeface with an organic feel. It began with the Latin design by Kelvin Song, which was inspired by his own painted signage designs, and then Ambarisha Darbha extended the design to support Kannada. It offers a distinctive character that is maintained across a wide range of sizes. It was made to function well in a display role at large sizes, while the open contours and robust design make it legible at text sizes. The simple clear shapes also make it perfect for web and screen reading. The type's personality is intended to be both vigorous and firm, warm and approachable. The same personality and consideration has been instilled into all of the glyphs found in the design, making it a truly multi-purpose design.
 
 ![Screenshot](screenshot.png?raw=true "Title")
