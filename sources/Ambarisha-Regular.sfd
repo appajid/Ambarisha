@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1442932758
-ModificationTime: 1459346999
+ModificationTime: 1459400286
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -68,8 +68,54 @@ Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 6" { "'pres' Pre Base Substi
 Lookup: 4 8 0 "'haln' Halant Forms lookup 7" { "'haln' Halant Forms lookup 7 subtable"  } ['haln' ('DFLT' <'dflt' > 'knd2' <'dflt' > 'knda' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
+Lookup: 4 0 1 "'dlig' Discretionary Ligatures lookup 0" { "'dlig' Discretionary Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1-1" [150,0,4] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 24 19 "'kern' Horizontal Kerning lookup 1-1"
+ 23 a d g h i j l m n q u y
+ 5 b o p
+ 9 c k s x z
+ 1 e
+ 1 f
+ 1 r
+ 3 v w
+ 1 t
+ 1 A
+ 9 B D O Q R
+ 1 C
+ 1 E
+ 1 F
+ 1 G
+ 11 H I J M N U
+ 1 K
+ 1 L
+ 1 P
+ 1 S
+ 1 T
+ 5 V W Y
+ 1 X
+ 1 Z
+ 13 a c d e g o q
+ 21 b h i k l m n p r u y
+ 1 f
+ 1 j
+ 1 s
+ 1 t
+ 3 v w
+ 1 x
+ 1 z
+ 1 A
+ 25 B D E F H I K L M N P R U
+ 7 C G O Q
+ 1 J
+ 1 S
+ 1 T
+ 5 V W Y
+ 1 X
+ 1 Z
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 6 subtable" 0 0 0 1
  1 1 0
   Coverage: 329 knsignvR knsignvRR knAIlengthmark knKAc2 knKHAc2 knGAc2 knGHAc2 knNGAc2 knCAc2 knCHAc2 knJAc2 knJHAc2 knNYAc2 knTTAc2 knTTHAc2 knDDAc2 knDDHAc2 knNNAc2 knTAc2 knTHAc2 knDAc2 knDHAc2 knNAc2 knPAc2 knPHAc2 knBAc2 knBHAc2 knMAc2 knYAc2 knRAc2 knLAc2 knVAc2 knSHAc2 knSSAc2 knSAc2 knHAc2 knRRAc2 knLLAc2 knLLLAc2 knKSSAc2 knTAc2_RAc2
@@ -96,6 +142,7 @@ WinInfo: 480 20 19
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 272629 136314 90876 521142 1048576 90876 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "top" "'mark' Mark Positioning in Latin lookup 0-1" "bottom" "'mark' Mark Positioning in Latin lookup 0-1" 
 BeginChars: 65968 851
 
 StartChar: .notdef
@@ -1795,6 +1842,8 @@ Width: 323
 Flags: MW
 HStem: -5 21G<257 257> 0 21G<-1 -1> 166 53
 VStem: -1 323<0 5> 54 217
+AnchorPoint: "top" 158 648 basechar 0
+AnchorPoint: "bottom" 162 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -1855,6 +1904,8 @@ Width: 293
 Flags: MW
 HStem: -9 58 603 55<157 209.5> 638 20G<137.5 221.5>
 VStem: 30 65<240 433 240 446.5>
+AnchorPoint: "top" 178 648 basechar 0
+AnchorPoint: "bottom" 193 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -1871,7 +1922,7 @@ SplineSet
  30 574 68 658 207 658 c 0
  236 658 263 651 276 636 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -1882,6 +1933,8 @@ Width: 368
 Flags: MW
 HStem: -3 58 594 58
 VStem: 66 59 273 65<223.5 444>
+AnchorPoint: "top" 169 648 basechar 0
+AnchorPoint: "bottom" 190 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -1909,6 +1962,8 @@ Width: 285
 Flags: MW
 HStem: -7 61 0 21G<274 274> 306 55 593 46 593 61
 VStem: 54 54
+AnchorPoint: "top" 147 648 basechar 0
+AnchorPoint: "bottom" 170 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -1965,6 +2020,8 @@ Width: 336
 Flags: MW
 HStem: -11 21G<239 239> -4 59 0 21G<304 304> 342 13 603 55<156 208.5>
 VStem: 29 65<240 433 240 446.5> 239 53
+AnchorPoint: "top" 180 648 basechar 0
+AnchorPoint: "bottom" 182 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2028,6 +2085,8 @@ Width: 164
 Flags: MW
 HStem: -4 21G<55 55>
 VStem: 55 52
+AnchorPoint: "top" 73 648 basechar 0
+AnchorPoint: "bottom" 93 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2074,6 +2133,8 @@ Width: 342
 Flags: MW
 HStem: -7 21G<68 68>
 VStem: 68 49
+AnchorPoint: "top" 164 648 basechar 0
+AnchorPoint: "bottom" 183 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2102,6 +2163,8 @@ Width: 290
 Flags: MW
 HStem: -6 62 0 21G<288 288> 633 20G<122 122>
 VStem: 68 54
+AnchorPoint: "top" 111 648 basechar 0
+AnchorPoint: "bottom" 182 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2157,6 +2220,8 @@ Width: 364
 Flags: MW
 HStem: -7 21G<233 233> -3 21G<49 49> 635 20G 637 20G<312 312>
 VStem: 40 77 262 50
+AnchorPoint: "top" 180 648 basechar 0
+AnchorPoint: "bottom" 180 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2184,6 +2249,8 @@ Width: 355
 Flags: MW
 HStem: -10 59<154.5 210.5 154.5 237> 600 58<145 200.5>
 VStem: 35 65<219 414.5 219 430> 253 67<221.5 403.5 206.5 432.5>
+AnchorPoint: "top" 182 648 basechar 0
+AnchorPoint: "bottom" 179 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2268,6 +2335,8 @@ Width: 337
 Flags: MW
 HStem: -8 21G<245 245> -6 21G<60 60> 321 32 594 60 634 20G<134.5 203.5>
 VStem: 65 58 225 68<463.5 529.5>
+AnchorPoint: "top" 158 648 basechar 0
+AnchorPoint: "bottom" 182 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2302,6 +2371,8 @@ Width: 275
 Flags: MW
 HStem: -8 55<97 143 97 151> 604 54<125.5 155>
 VStem: 20 63<517.5 564.5 517.5 582> 193 62<88.5 142>
+AnchorPoint: "top" 146 648 basechar 0
+AnchorPoint: "bottom" 141 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2333,6 +2404,8 @@ Width: 272
 Flags: MW
 HStem: -7 21G<117 117> 595 24 595 58
 VStem: 117 71<4 4 4 111>
+AnchorPoint: "top" 140 648 basechar 0
+AnchorPoint: "bottom" 153 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2347,7 +2420,7 @@ SplineSet
  117 -7 l 1
  117 229 117 386 107 591 c 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 Layer: 3
 EndChar
@@ -2358,6 +2431,8 @@ Width: 349
 Flags: MW
 HStem: -8 58<165 209.5 165 220>
 VStem: 38 70<644 650> 248 61<125 171 171 215.5>
+AnchorPoint: "top" 181 648 basechar 0
+AnchorPoint: "bottom" 187 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2470,6 +2545,8 @@ Width: 278
 Flags: MW
 HStem: -4 21G<114 114> 634 20G<65 65>
 VStem: 110 65<269 269>
+AnchorPoint: "top" 145 648 basechar 0
+AnchorPoint: "bottom" 150 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2496,6 +2573,8 @@ Width: 286
 Flags: MW
 HStem: -1 55 592 56<145 162 162 188>
 VStem: 21 245<34 57>
+AnchorPoint: "top" 151 648 basechar 0
+AnchorPoint: "bottom" 150 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2662,6 +2741,8 @@ Width: 340
 Flags: MW
 HStem: -6 21G<244 244> -2 61<128.5 171.5 128.5 176.5> 448 54<151 186.5>
 VStem: 30 64<156.5 301.5 156.5 321.5> 244 43
+AnchorPoint: "top" 183 496 basechar 0
+AnchorPoint: "bottom" 168 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2720,6 +2801,8 @@ Width: 253
 Flags: MW
 HStem: -7 59 449 55<138.5 174.5>
 VStem: 30 61<207 307.5 207 346>
+AnchorPoint: "top" 160 495 basechar 0
+AnchorPoint: "bottom" 159 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2747,6 +2830,8 @@ Width: 340
 Flags: MW
 HStem: -6 21G<238 238> -2 61<127 162.5> 447 49<151 187.5>
 VStem: 30 64<152 294 152 319.5> 238 55
+AnchorPoint: "top" 259 648 basechar 0
+AnchorPoint: "bottom" 173 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2778,6 +2863,8 @@ Width: 295
 Flags: MW
 HStem: -6 51<156 190 156 192> 299 44 445 58<150.5 179>
 VStem: 30 66<157 230.5 157 302.5> 215 57<343 416>
+AnchorPoint: "top" 172 496 basechar 0
+AnchorPoint: "bottom" 175 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2842,6 +2929,8 @@ Width: 333
 Flags: MW
 HStem: -180 60<153.5 174.5> -8 63<122.5 168 122.5 177.5> 448 54<147.5 189.5>
 VStem: 30 64<154.5 295.5 154.5 343.5> 239 59<20 25 -58 72 -58 84.5>
+AnchorPoint: "top" 178 496 basechar 0
+AnchorPoint: "bottom" 165 -180 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2961,6 +3050,8 @@ Width: 342
 Flags: MW
 HStem: -7 21G<68 68>
 VStem: 68 50
+AnchorPoint: "top" 162 648 basechar 0
+AnchorPoint: "bottom" 182 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -2989,6 +3080,8 @@ Width: 177
 Flags: MW
 HStem: -7 21G<68 68>
 VStem: 68 50
+AnchorPoint: "top" 77 648 basechar 0
+AnchorPoint: "bottom" 94 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3041,6 +3134,8 @@ Width: 340
 Flags: MW
 HStem: -5 21G<239 239> -3 21G<46 46> 1 21G<305 305> 433 67<176 223>
 VStem: 46 51 239 66<-5 1>
+AnchorPoint: "top" 173 496 basechar 0
+AnchorPoint: "bottom" 174 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3067,6 +3162,8 @@ Width: 308
 Flags: MW
 HStem: -8 59<134.5 183.5 134.5 207> 445 58<132 179>
 VStem: 30 62<185.5 302.5 185.5 311.5> 215 66<180.5 293.5 180.5 323>
+AnchorPoint: "top" 160 496 basechar 0
+AnchorPoint: "bottom" 156 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3153,6 +3250,8 @@ Width: 268
 Flags: MW
 HStem: -3 21G<51 51> 425 77<195.5 256>
 VStem: 51 54
+AnchorPoint: "top" 152 496 basechar 0
+AnchorPoint: "bottom" 86 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3182,6 +3281,8 @@ Width: 280
 Flags: MW
 HStem: -8 55<98 134 98 150> 449 54<145 161 145 161>
 VStem: 40 63<391.5 426.5 391.5 433.5> 187 62<77.5 122>
+AnchorPoint: "top" 146 496 basechar 0
+AnchorPoint: "bottom" 145 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3213,6 +3314,8 @@ Width: 276
 Flags: MW
 HStem: -7 21G<110 110> 437 55
 VStem: 110 54
+AnchorPoint: "top" 112 648 basechar 0
+AnchorPoint: "bottom" 125 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3243,6 +3346,8 @@ Width: 340
 Flags: MW
 HStem: -7 21G<242 242> -3 63<117 170 117 175.5>
 VStem: 34 69<494 494> 243 48
+AnchorPoint: "top" 173 496 basechar 0
+AnchorPoint: "bottom" 144 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3353,6 +3458,8 @@ Width: 340
 Flags: MW
 HStem: -180 60<149.5 202.5 149.5 213.5> -3 63<116.5 169.5 116.5 175.5>
 VStem: 35 66<494 500> 247 58<-52.5 18.5>
+AnchorPoint: "top" 169 496 basechar 0
+AnchorPoint: "bottom" 165 -180 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -3383,6 +3490,8 @@ Width: 272
 Flags: MW
 HStem: -1 55 441 56<133 150 150 175>
 VStem: 25 227<39 57> 26 224
+AnchorPoint: "top" 140 496 basechar 0
+AnchorPoint: "bottom" 146 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -6485,6 +6594,7 @@ EndSplineSet
 Validated: 37
 Layer: 2
 Layer: 3
+Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: fl
@@ -6517,6 +6627,7 @@ EndSplineSet
 Validated: 5
 Layer: 2
 Layer: 3
+Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: daggerdbl
@@ -7167,6 +7278,8 @@ Width: 177
 Flags: MW
 HStem: -7 21G<68 68>
 VStem: 63 61
+AnchorPoint: "top" 91 496 basechar 0
+AnchorPoint: "bottom" 103 0 basechar 0
 LayerCount: 4
 Back
 Fore
@@ -7873,7 +7986,7 @@ SplineSet
  365 205 227 209 227 111 c 0
  227 72 269 58 302 58 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -7989,7 +8102,7 @@ SplineSet
  260 174 285 59 334 59 c 0
  391 60 424 145 424 341 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -8061,7 +8174,7 @@ SplineSet
  277 174 289 57 340 57 c 0
  382 57 394 142 362 231 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -8104,7 +8217,7 @@ SplineSet
  278 174 290 57 341 57 c 0
  383 57 395 142 363 231 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -8372,7 +8485,7 @@ SplineSet
  189 126 191 80 193 35 c 0
  196 -41 199 -131 199 -183 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 Substitution2: "Single Substitution lookup 9 subtable" knsignvR.following
@@ -8464,7 +8577,7 @@ SplineSet
  153 -81 161 -80 162 -80 c 0
  167 -110 164 -173 162 -196 c 0
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -8642,7 +8755,7 @@ SplineSet
  204 101 221 66 221 27 c 0
  221 -29 188 -87 127 -87 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -8876,7 +8989,7 @@ SplineSet
  198 101 215 66 215 27 c 0
  215 -29 182 -87 121 -87 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 Substitution2: "Single Substitution lookup 9 subtable" knAIlengthmark.following
@@ -9580,7 +9693,7 @@ SplineSet
  295 328 327 378 397 370 c 0
  440 365 516 326 494 174 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -9625,7 +9738,7 @@ SplineSet
  90 93 117 53 154 53 c 1
  154 38 152 15 155 0 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -9885,7 +9998,7 @@ SplineSet
  374 598 404 627 401 667 c 1
  410 668 433 668 454 673 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -9943,7 +10056,7 @@ SplineSet
  374 598 404 627 401 667 c 1
  410 668 433 668 454 673 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -10291,7 +10404,7 @@ SplineSet
  191 546 186 590 188 592 c 0
  352 589 413 445 413 299 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -10344,7 +10457,7 @@ SplineSet
  374 598 404 627 401 667 c 1
  410 668 433 668 454 673 c 1
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -10435,7 +10548,7 @@ SplineSet
  33 363 71 444 154 444 c 0
  245 444 258 356 258 231 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -10596,7 +10709,7 @@ SplineSet
  265 531 285 593 356 593 c 0
  404 593 429 540 429 489 c 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -10818,7 +10931,7 @@ SplineSet
  276 591 339 553 344 430 c 0
  348 332 347 225 352 0 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 EndChar
@@ -10933,7 +11046,7 @@ SplineSet
  411 531 426 463 426 407 c 0
  426 264 330 205 229 205 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -10990,7 +11103,7 @@ SplineSet
  233 596 274 497 274 310 c 0
  274 150 229 0 138 0 c 0
 EndSplineSet
-Validated: 8388645
+Validated: 37
 Layer: 2
 Layer: 3
 EndChar
@@ -11329,7 +11442,7 @@ SplineSet
  327 564 l 2
  327 552 326 540 326 536 c 2
 EndSplineSet
-Validated: 8388641
+Validated: 33
 Layer: 2
 Layer: 3
 LCarets2: 1 0
