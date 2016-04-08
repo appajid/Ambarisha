@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436745016
-ModificationTime: 1460081567
+ModificationTime: 1460082606
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -121,7 +121,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 336 14 7
+WinInfo: 0 14 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -821,12 +821,10 @@ EndChar
 
 StartChar: space
 Encoding: 0 32 23
-Width: 250
+Width: 180
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: w
@@ -4186,7 +4184,7 @@ StartChar: ring.cap
 Encoding: 361 -1 178
 Width: 0
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "top" -160 648 mark 0
 LayerCount: 2
 Fore
