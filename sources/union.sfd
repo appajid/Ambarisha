@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436745016
-ModificationTime: 1460082606
+ModificationTime: 1460082922
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -115,13 +115,13 @@ ChainSub2: coverage "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 4 su
   SeqLookup: 0 "Ambarisha-Regular-Single Substitution lookup 8"
 EndFPST
 LangName: 1033
-Encoding: Custom
+Encoding: iso8859-15
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 14 7
+WinInfo: 350 14 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -143,10 +143,10 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 262144 131072 87381 521142 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom" "'mark' Mark Positioning in Latin lookup 0-1" "top" "'mark' Mark Positioning in Latin lookup 0-1" 
-BeginChars: 863 863
+BeginChars: 940 875
 
 StartChar: r
-Encoding: 82 114 0
+Encoding: 114 114 0
 Width: 268
 VWidth: 0
 Flags: HMW
@@ -186,7 +186,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 69 101 1
+Encoding: 101 101 1
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -232,7 +232,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 85 117 2
+Encoding: 117 117 2
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -256,7 +256,7 @@ Validated: 33
 EndChar
 
 StartChar: i
-Encoding: 73 105 3
+Encoding: 105 105 3
 Width: 177
 VWidth: 0
 Flags: HMW
@@ -278,7 +278,7 @@ Validated: 33
 EndChar
 
 StartChar: f
-Encoding: 70 102 4
+Encoding: 102 102 4
 Width: 241
 VWidth: 0
 Flags: HMW
@@ -316,7 +316,7 @@ Validated: 5
 EndChar
 
 StartChar: c
-Encoding: 67 99 5
+Encoding: 99 99 5
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -356,7 +356,7 @@ Validated: 1
 EndChar
 
 StartChar: o
-Encoding: 79 111 6
+Encoding: 111 111 6
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -379,7 +379,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 71 103 7
+Encoding: 103 103 7
 Width: 333
 VWidth: 0
 Flags: HMW
@@ -430,7 +430,7 @@ EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 48 80 8
+Encoding: 80 80 8
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -454,7 +454,7 @@ Validated: 37
 EndChar
 
 StartChar: a
-Encoding: 65 97 9
+Encoding: 97 97 9
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -480,7 +480,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 78 110 10
+Encoding: 110 110 10
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -504,7 +504,7 @@ Validated: 33
 EndChar
 
 StartChar: h
-Encoding: 72 104 11
+Encoding: 104 104 11
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -526,7 +526,7 @@ Validated: 33
 EndChar
 
 StartChar: b
-Encoding: 66 98 12
+Encoding: 98 98 12
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -551,7 +551,7 @@ Validated: 1
 EndChar
 
 StartChar: d
-Encoding: 68 100 13
+Encoding: 100 100 13
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -579,7 +579,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 83 115 14
+Encoding: 115 115 14
 Width: 280
 VWidth: 0
 Flags: HMW
@@ -608,7 +608,7 @@ Validated: 1
 EndChar
 
 StartChar: j
-Encoding: 74 106 15
+Encoding: 106 106 15
 Width: 205
 VWidth: 0
 Flags: HMW
@@ -634,7 +634,7 @@ Validated: 1
 EndChar
 
 StartChar: l
-Encoding: 76 108 16
+Encoding: 108 108 16
 Width: 166
 VWidth: 0
 Flags: HMW
@@ -653,7 +653,7 @@ Validated: 1
 EndChar
 
 StartChar: m
-Encoding: 77 109 17
+Encoding: 109 109 17
 Width: 535
 VWidth: 0
 Flags: HMW
@@ -680,7 +680,7 @@ Validated: 33
 EndChar
 
 StartChar: p
-Encoding: 80 112 18
+Encoding: 112 112 18
 Width: 343
 VWidth: 0
 Flags: HMW
@@ -707,7 +707,7 @@ Validated: 33
 EndChar
 
 StartChar: q
-Encoding: 81 113 19
+Encoding: 113 113 19
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -732,7 +732,7 @@ Validated: 1
 EndChar
 
 StartChar: t
-Encoding: 84 116 20
+Encoding: 116 116 20
 Width: 236
 VWidth: 0
 Flags: HMW
@@ -756,7 +756,7 @@ Validated: 5
 EndChar
 
 StartChar: v
-Encoding: 86 118 21
+Encoding: 118 118 21
 Width: 276
 VWidth: 0
 Flags: HMW
@@ -776,7 +776,7 @@ Validated: 1
 EndChar
 
 StartChar: y
-Encoding: 89 121 22
+Encoding: 121 121 22
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -820,7 +820,7 @@ Validated: 33
 EndChar
 
 StartChar: space
-Encoding: 0 32 23
+Encoding: 32 32 23
 Width: 180
 VWidth: 0
 Flags: HMW
@@ -828,7 +828,7 @@ LayerCount: 2
 EndChar
 
 StartChar: w
-Encoding: 87 119 24
+Encoding: 119 119 24
 Width: 470
 VWidth: 0
 Flags: HMW
@@ -854,7 +854,7 @@ Validated: 1
 EndChar
 
 StartChar: x
-Encoding: 88 120 25
+Encoding: 120 120 25
 Width: 299
 VWidth: 0
 Flags: HMW
@@ -879,7 +879,7 @@ Validated: 1
 EndChar
 
 StartChar: k
-Encoding: 75 107 26
+Encoding: 107 107 26
 Width: 321
 VWidth: 0
 Flags: HMW
@@ -905,7 +905,7 @@ Validated: 5
 EndChar
 
 StartChar: z
-Encoding: 90 122 27
+Encoding: 122 122 27
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -930,7 +930,7 @@ Validated: 1
 EndChar
 
 StartChar: A
-Encoding: 33 65 28
+Encoding: 65 65 28
 Width: 323
 VWidth: 0
 Flags: HMW
@@ -956,7 +956,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 34 66 29
+Encoding: 66 66 29
 Width: 338
 VWidth: 0
 Flags: HMW
@@ -983,7 +983,7 @@ Validated: 33
 EndChar
 
 StartChar: C
-Encoding: 35 67 30
+Encoding: 67 67 30
 Width: 293
 VWidth: 0
 Flags: HMW
@@ -1008,7 +1008,7 @@ Validated: 33
 EndChar
 
 StartChar: D
-Encoding: 36 68 31
+Encoding: 68 68 31
 Width: 368
 VWidth: 0
 Flags: HMW
@@ -1033,7 +1033,7 @@ Validated: 33
 EndChar
 
 StartChar: E
-Encoding: 37 69 32
+Encoding: 69 69 32
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -1067,7 +1067,7 @@ Validated: 5
 EndChar
 
 StartChar: F
-Encoding: 38 70 33
+Encoding: 70 70 33
 Width: 270
 VWidth: 0
 Flags: HMW
@@ -1094,7 +1094,7 @@ Validated: 5
 EndChar
 
 StartChar: G
-Encoding: 39 71 34
+Encoding: 71 71 34
 Width: 336
 VWidth: 0
 Flags: HMW
@@ -1129,7 +1129,7 @@ Validated: 37
 EndChar
 
 StartChar: H
-Encoding: 40 72 35
+Encoding: 72 72 35
 Width: 345
 VWidth: 0
 Flags: HMW
@@ -1156,7 +1156,7 @@ Validated: 5
 EndChar
 
 StartChar: I
-Encoding: 41 73 36
+Encoding: 73 73 36
 Width: 164
 VWidth: 0
 Flags: HMW
@@ -1175,7 +1175,7 @@ Validated: 1
 EndChar
 
 StartChar: J
-Encoding: 42 74 37
+Encoding: 74 74 37
 Width: 258
 VWidth: 0
 Flags: MW
@@ -1196,7 +1196,7 @@ Validated: 1
 EndChar
 
 StartChar: K
-Encoding: 43 75 38
+Encoding: 75 75 38
 Width: 342
 VWidth: 0
 Flags: HMW
@@ -1222,7 +1222,7 @@ Validated: 5
 EndChar
 
 StartChar: L
-Encoding: 44 76 39
+Encoding: 76 76 39
 Width: 288
 VWidth: 0
 Flags: HMW
@@ -1246,7 +1246,7 @@ Validated: 5
 EndChar
 
 StartChar: M
-Encoding: 45 77 40
+Encoding: 77 77 40
 Width: 450
 VWidth: 0
 Flags: HMW
@@ -1272,7 +1272,7 @@ Validated: 33
 EndChar
 
 StartChar: N
-Encoding: 46 78 41
+Encoding: 78 78 41
 Width: 364
 VWidth: 0
 Flags: HMW
@@ -1297,7 +1297,7 @@ Validated: 33
 EndChar
 
 StartChar: O
-Encoding: 47 79 42
+Encoding: 79 79 42
 Width: 355
 VWidth: 0
 Flags: HMW
@@ -1321,7 +1321,7 @@ Validated: 1
 EndChar
 
 StartChar: S
-Encoding: 51 83 43
+Encoding: 83 83 43
 Width: 275
 VWidth: 0
 Flags: HMW
@@ -1350,7 +1350,7 @@ Validated: 1
 EndChar
 
 StartChar: Q
-Encoding: 49 81 44
+Encoding: 81 81 44
 Width: 365
 VWidth: 0
 Flags: HMW
@@ -1377,7 +1377,7 @@ Validated: 5
 EndChar
 
 StartChar: R
-Encoding: 50 82 45
+Encoding: 82 82 45
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -1408,7 +1408,7 @@ Validated: 37
 EndChar
 
 StartChar: W
-Encoding: 55 87 46
+Encoding: 87 87 46
 Width: 470
 VWidth: 0
 Flags: HMW
@@ -1434,7 +1434,7 @@ Validated: 1
 EndChar
 
 StartChar: T
-Encoding: 52 84 47
+Encoding: 84 84 47
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -1459,7 +1459,7 @@ Validated: 5
 EndChar
 
 StartChar: U
-Encoding: 53 85 48
+Encoding: 85 85 48
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -1484,7 +1484,7 @@ Validated: 1
 EndChar
 
 StartChar: V
-Encoding: 54 86 49
+Encoding: 86 86 49
 Width: 302
 VWidth: 0
 Flags: HMW
@@ -1504,7 +1504,7 @@ Validated: 1
 EndChar
 
 StartChar: X
-Encoding: 56 88 50
+Encoding: 88 88 50
 Width: 310
 VWidth: 0
 Flags: MW
@@ -1529,7 +1529,7 @@ Validated: 1
 EndChar
 
 StartChar: Y
-Encoding: 57 89 51
+Encoding: 89 89 51
 Width: 278
 VWidth: 0
 Flags: HMW
@@ -1553,7 +1553,7 @@ Validated: 1
 EndChar
 
 StartChar: Z
-Encoding: 58 90 52
+Encoding: 90 90 52
 Width: 286
 VWidth: 0
 Flags: HMW
@@ -1578,7 +1578,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 17 49 53
+Encoding: 49 49 53
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -1597,7 +1597,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 25 57 54
+Encoding: 57 57 54
 Width: 339
 VWidth: 0
 Flags: HMW
@@ -1621,7 +1621,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 24 56 55
+Encoding: 56 56 55
 Width: 343
 VWidth: 0
 Flags: HMW
@@ -1652,7 +1652,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 16 48 56
+Encoding: 48 48 56
 Width: 345
 VWidth: 0
 Flags: HMW
@@ -1674,7 +1674,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 18 50 57
+Encoding: 50 50 57
 Width: 284
 VWidth: 0
 Flags: HMW
@@ -1697,7 +1697,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 19 51 58
+Encoding: 51 51 58
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -1724,7 +1724,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 20 52 59
+Encoding: 52 52 59
 Width: 338
 VWidth: 0
 Flags: HMW
@@ -1747,7 +1747,7 @@ Validated: 5
 EndChar
 
 StartChar: five
-Encoding: 21 53 60
+Encoding: 53 53 60
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -1771,7 +1771,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 22 54 61
+Encoding: 54 54 61
 Width: 320
 VWidth: 0
 Flags: HMW
@@ -1795,7 +1795,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 23 55 62
+Encoding: 55 55 62
 Width: 248
 VWidth: 0
 Flags: HMW
@@ -1815,7 +1815,7 @@ Validated: 1
 EndChar
 
 StartChar: period
-Encoding: 14 46 63
+Encoding: 46 46 63
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -1832,7 +1832,7 @@ Validated: 1
 EndChar
 
 StartChar: comma
-Encoding: 12 44 64
+Encoding: 44 44 64
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -1849,7 +1849,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 26 58 65
+Encoding: 58 58 65
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -1871,7 +1871,7 @@ Validated: 1
 EndChar
 
 StartChar: semicolon
-Encoding: 27 59 66
+Encoding: 59 59 66
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -1893,7 +1893,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesingle
-Encoding: 7 39 67
+Encoding: 39 39 67
 Width: 109
 VWidth: 0
 Flags: HMW
@@ -1910,7 +1910,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedbl
-Encoding: 2 34 68
+Encoding: 34 34 68
 Width: 220
 VWidth: 0
 Flags: HMW
@@ -1932,7 +1932,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteleft
-Encoding: 314 8216 69
+Encoding: 256 8216 69
 Width: 109
 VWidth: 0
 Flags: HMW
@@ -1950,7 +1950,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteright
-Encoding: 315 8217 70
+Encoding: 257 8217 70
 Width: 109
 VWidth: 0
 Flags: HMW
@@ -1968,7 +1968,7 @@ Validated: 33
 EndChar
 
 StartChar: quotedblleft
-Encoding: 317 8220 71
+Encoding: 258 8220 71
 Width: 240
 VWidth: 0
 Flags: HMW
@@ -1992,7 +1992,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblright
-Encoding: 318 8221 72
+Encoding: 259 8221 72
 Width: 238
 VWidth: 0
 Flags: HMW
@@ -2016,7 +2016,7 @@ Validated: 33
 EndChar
 
 StartChar: emdash
-Encoding: 313 8212 73
+Encoding: 260 8212 73
 Width: 800
 VWidth: 0
 Flags: HMW
@@ -2033,7 +2033,7 @@ Validated: 1
 EndChar
 
 StartChar: figuredash
-Encoding: 311 8210 74
+Encoding: 261 8210 74
 Width: 460
 VWidth: 0
 Flags: HMW
@@ -2044,7 +2044,7 @@ Validated: 1
 EndChar
 
 StartChar: endash
-Encoding: 312 8211 75
+Encoding: 262 8211 75
 Width: 460
 VWidth: 0
 Flags: HMW
@@ -2061,7 +2061,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2010
-Encoding: 310 8208 76
+Encoding: 263 8208 76
 Width: 250
 VWidth: 0
 Flags: HMW
@@ -2072,7 +2072,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 8 40 77
+Encoding: 40 40 77
 Width: 188
 VWidth: 0
 Flags: HMW
@@ -2090,7 +2090,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 9 41 78
+Encoding: 41 41 78
 Width: 188
 VWidth: 0
 Flags: HMW
@@ -2109,7 +2109,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphen
-Encoding: 13 45 79
+Encoding: 45 45 79
 Width: 250
 VWidth: 0
 Flags: HMW
@@ -2126,7 +2126,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 31 63 80
+Encoding: 63 63 80
 Width: 284
 VWidth: 0
 Flags: HMW
@@ -2153,7 +2153,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam
-Encoding: 1 33 81
+Encoding: 33 33 81
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -2175,7 +2175,7 @@ Validated: 1
 EndChar
 
 StartChar: slash
-Encoding: 15 47 82
+Encoding: 47 47 82
 Width: 216
 VWidth: 0
 Flags: HMW
@@ -2192,7 +2192,7 @@ Validated: 1
 EndChar
 
 StartChar: numbersign
-Encoding: 3 35 83
+Encoding: 35 35 83
 Width: 408
 VWidth: 0
 Flags: MW
@@ -2224,7 +2224,7 @@ Validated: 5
 EndChar
 
 StartChar: backslash
-Encoding: 60 92 84
+Encoding: 92 92 84
 Width: 189
 VWidth: 0
 Flags: MW
@@ -2241,7 +2241,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 30 62 85
+Encoding: 62 62 85
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -2260,7 +2260,7 @@ Validated: 1
 EndChar
 
 StartChar: dollar
-Encoding: 4 36 86
+Encoding: 36 36 86
 Width: 275
 VWidth: 0
 Flags: HMW
@@ -2297,7 +2297,7 @@ Validated: 5
 EndChar
 
 StartChar: percent
-Encoding: 5 37 87
+Encoding: 37 37 87
 Width: 618
 VWidth: 0
 Flags: HMW
@@ -2333,7 +2333,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 6 38 88
+Encoding: 38 38 88
 Width: 400
 VWidth: 0
 Flags: HMW
@@ -2359,7 +2359,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 10 42 89
+Encoding: 42 42 89
 Width: 324
 VWidth: 0
 Flags: HMW
@@ -2387,7 +2387,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 11 43 90
+Encoding: 43 43 90
 Width: 380
 VWidth: 0
 Flags: MW
@@ -2412,7 +2412,7 @@ Validated: 1
 EndChar
 
 StartChar: less
-Encoding: 28 60 91
+Encoding: 60 60 91
 Width: 377
 VWidth: 0
 Flags: HMW
@@ -2431,7 +2431,7 @@ Validated: 1
 EndChar
 
 StartChar: minus
-Encoding: 340 8722 92
+Encoding: 264 8722 92
 Width: 380
 VWidth: 0
 Flags: MW
@@ -2448,7 +2448,7 @@ Validated: 1
 EndChar
 
 StartChar: equal
-Encoding: 29 61 93
+Encoding: 61 61 93
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -2470,7 +2470,7 @@ Validated: 1
 EndChar
 
 StartChar: at
-Encoding: 32 64 94
+Encoding: 64 64 94
 Width: 702
 VWidth: 0
 Flags: HMW
@@ -2504,7 +2504,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 59 91 95
+Encoding: 91 91 95
 Width: 220
 VWidth: 0
 Flags: HMW
@@ -2531,7 +2531,7 @@ Validated: 5
 EndChar
 
 StartChar: braceleft
-Encoding: 91 123 96
+Encoding: 123 123 96
 Width: 250
 VWidth: 0
 Flags: HMW
@@ -2559,7 +2559,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 61 93 97
+Encoding: 93 93 97
 Width: 220
 VWidth: 0
 Flags: HMW
@@ -2586,7 +2586,7 @@ Validated: 5
 EndChar
 
 StartChar: asciicircum
-Encoding: 62 94 98
+Encoding: 94 94 98
 Width: 320
 VWidth: 0
 Flags: MW
@@ -2605,7 +2605,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 63 95 99
+Encoding: 95 95 99
 Width: 400
 VWidth: 0
 Flags: MW
@@ -2622,7 +2622,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 93 125 100
+Encoding: 125 125 100
 Width: 250
 VWidth: 0
 Flags: HMW
@@ -2651,7 +2651,7 @@ Validated: 33
 EndChar
 
 StartChar: bar
-Encoding: 92 124 101
+Encoding: 124 124 101
 Width: 200
 VWidth: 0
 Flags: MW
@@ -2668,7 +2668,7 @@ Validated: 1
 EndChar
 
 StartChar: asciitilde
-Encoding: 94 126 102
+Encoding: 126 126 102
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -2688,7 +2688,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 96 161 103
+Encoding: 161 161 103
 Width: 187
 VWidth: 0
 Flags: MW
@@ -2710,7 +2710,7 @@ Validated: 1
 EndChar
 
 StartChar: cent
-Encoding: 97 162 104
+Encoding: 162 162 104
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -2743,7 +2743,7 @@ Validated: 5
 EndChar
 
 StartChar: sterling
-Encoding: 98 163 105
+Encoding: 163 163 105
 Width: 310
 VWidth: 0
 Flags: HMW
@@ -2773,7 +2773,7 @@ EndSplineSet
 EndChar
 
 StartChar: Euro
-Encoding: 329 8364 106
+Encoding: 164 8364 106
 Width: 312
 VWidth: 0
 Flags: HMW
@@ -2805,7 +2805,7 @@ EndSplineSet
 EndChar
 
 StartChar: yen
-Encoding: 100 165 107
+Encoding: 165 165 107
 Width: 297
 VWidth: 0
 Flags: HMW
@@ -2837,7 +2837,7 @@ Validated: 5
 EndChar
 
 StartChar: section
-Encoding: 102 167 108
+Encoding: 167 167 108
 Width: 315
 VWidth: 0
 Flags: HMW
@@ -2874,7 +2874,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 106 171 109
+Encoding: 171 171 109
 Width: 376
 VWidth: 0
 Flags: HMW
@@ -2900,7 +2900,7 @@ Validated: 1
 EndChar
 
 StartChar: guillemotright
-Encoding: 122 187 110
+Encoding: 187 187 110
 Width: 376
 VWidth: 0
 Flags: HMW
@@ -2926,7 +2926,7 @@ Validated: 1
 EndChar
 
 StartChar: logicalnot
-Encoding: 107 172 111
+Encoding: 172 172 111
 Width: 390
 VWidth: 0
 Flags: HMW
@@ -2944,7 +2944,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00AD
-Encoding: 108 173 112
+Encoding: 173 173 112
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -2954,7 +2954,7 @@ Validated: 1
 EndChar
 
 StartChar: degree
-Encoding: 111 176 113
+Encoding: 176 176 113
 Width: 292
 VWidth: 0
 Flags: HMW
@@ -2975,7 +2975,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 112 177 114
+Encoding: 177 177 114
 Width: 380
 VWidth: 0
 Flags: MW
@@ -3005,7 +3005,7 @@ Validated: 1
 EndChar
 
 StartChar: mu
-Encoding: 116 181 115
+Encoding: 181 181 115
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3030,7 +3030,7 @@ EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 117 182 116
+Encoding: 182 182 116
 Width: 425
 VWidth: 0
 Flags: MW
@@ -3063,7 +3063,7 @@ Validated: 5
 EndChar
 
 StartChar: periodcentered
-Encoding: 118 183 117
+Encoding: 183 183 117
 Width: 187
 VWidth: 0
 Flags: MW
@@ -3080,7 +3080,7 @@ Validated: 1
 EndChar
 
 StartChar: OE
-Encoding: 242 338 118
+Encoding: 188 338 118
 Width: 485
 VWidth: 0
 Flags: HMW
@@ -3123,7 +3123,7 @@ Validated: 37
 EndChar
 
 StartChar: oe
-Encoding: 243 339 119
+Encoding: 189 339 119
 Width: 493
 VWidth: 0
 Flags: HMW
@@ -3159,7 +3159,7 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 126 191 120
+Encoding: 191 191 120
 Width: 284
 VWidth: 0
 Flags: MW
@@ -3187,7 +3187,7 @@ Validated: 1
 EndChar
 
 StartChar: AE
-Encoding: 133 198 121
+Encoding: 198 198 121
 Width: 433
 VWidth: 0
 Flags: HMW
@@ -3229,7 +3229,7 @@ EndSplineSet
 EndChar
 
 StartChar: Thorn
-Encoding: 157 222 122
+Encoding: 222 222 122
 Width: 328
 VWidth: 0
 Flags: HMW
@@ -3253,7 +3253,7 @@ EndSplineSet
 EndChar
 
 StartChar: germandbls
-Encoding: 158 223 123
+Encoding: 223 223 123
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -3280,7 +3280,7 @@ EndSplineSet
 EndChar
 
 StartChar: ae
-Encoding: 165 230 124
+Encoding: 230 230 124
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -3319,7 +3319,7 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 175 240 125
+Encoding: 240 240 125
 Width: 340
 VWidth: 0
 Flags: MW
@@ -3351,7 +3351,7 @@ Validated: 5
 EndChar
 
 StartChar: divide
-Encoding: 182 247 126
+Encoding: 247 247 126
 Width: 380
 VWidth: 0
 Flags: MW
@@ -3378,7 +3378,7 @@ Validated: 1
 EndChar
 
 StartChar: thorn
-Encoding: 189 254 127
+Encoding: 254 254 127
 Width: 353
 VWidth: 0
 Flags: HMW
@@ -3405,7 +3405,7 @@ Validated: 33
 EndChar
 
 StartChar: copyright
-Encoding: 104 169 128
+Encoding: 169 169 128
 Width: 566
 VWidth: 0
 Flags: HMW
@@ -3437,7 +3437,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 109 174 129
+Encoding: 174 174 129
 Width: 566
 VWidth: 0
 Flags: HMW
@@ -3475,7 +3475,7 @@ EndSplineSet
 EndChar
 
 StartChar: aacute
-Encoding: 160 225 130
+Encoding: 225 225 130
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3486,7 +3486,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aacute
-Encoding: 128 193 131
+Encoding: 193 193 131
 Width: 323
 VWidth: 0
 Flags: HMW
@@ -3497,7 +3497,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gravecomb
-Encoding: 291 768 132
+Encoding: 265 768 132
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3515,7 +3515,7 @@ Validated: 1
 EndChar
 
 StartChar: acutecomb
-Encoding: 292 769 133
+Encoding: 266 769 133
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3533,7 +3533,7 @@ Validated: 1
 EndChar
 
 StartChar: circumflexcomb
-Encoding: 293 770 134
+Encoding: 267 770 134
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3553,7 +3553,7 @@ Validated: 1
 EndChar
 
 StartChar: tildecomb
-Encoding: 294 771 135
+Encoding: 268 771 135
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3575,7 +3575,7 @@ Validated: 1
 EndChar
 
 StartChar: brevecomb
-Encoding: 296 774 136
+Encoding: 269 774 136
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -3595,7 +3595,7 @@ Validated: 1
 EndChar
 
 StartChar: uni030A
-Encoding: 299 778 137
+Encoding: 270 778 137
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -3617,7 +3617,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresiscomb
-Encoding: 298 776 138
+Encoding: 271 776 138
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3640,7 +3640,7 @@ Validated: 1
 EndChar
 
 StartChar: caroncomb
-Encoding: 301 780 139
+Encoding: 272 780 139
 Width: 0
 VWidth: 0
 Flags: MW
@@ -3660,7 +3660,7 @@ Validated: 1
 EndChar
 
 StartChar: agrave
-Encoding: 159 224 140
+Encoding: 224 224 140
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3671,7 +3671,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acircumflex
-Encoding: 161 226 141
+Encoding: 226 226 141
 Width: 340
 VWidth: 0
 Flags: HM
@@ -3682,7 +3682,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: atilde
-Encoding: 162 227 142
+Encoding: 227 227 142
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3693,7 +3693,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: adieresis
-Encoding: 163 228 143
+Encoding: 228 228 143
 Width: 340
 VWidth: 0
 Flags: HM
@@ -3704,7 +3704,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aring
-Encoding: 164 229 144
+Encoding: 229 229 144
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3715,7 +3715,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
-Encoding: 167 232 145
+Encoding: 232 232 145
 Width: 295
 VWidth: 0
 Flags: HM
@@ -3726,7 +3726,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eacute
-Encoding: 168 233 146
+Encoding: 233 233 146
 Width: 295
 VWidth: 0
 Flags: HM
@@ -3737,7 +3737,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
-Encoding: 169 234 147
+Encoding: 234 234 147
 Width: 295
 VWidth: 0
 Flags: HM
@@ -3748,7 +3748,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
-Encoding: 170 235 148
+Encoding: 235 235 148
 Width: 295
 VWidth: 0
 Flags: HM
@@ -3759,7 +3759,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: dotlessi
-Encoding: 221 305 149
+Encoding: 273 305 149
 Width: 177
 VWidth: 0
 Flags: MW
@@ -3778,7 +3778,7 @@ Validated: 33
 EndChar
 
 StartChar: igrave
-Encoding: 171 236 150
+Encoding: 236 236 150
 Width: 177
 VWidth: 0
 Flags: HM
@@ -3790,7 +3790,7 @@ Validated: 1
 EndChar
 
 StartChar: iacute
-Encoding: 172 237 151
+Encoding: 237 237 151
 Width: 177
 VWidth: 0
 Flags: HM
@@ -3802,7 +3802,7 @@ Validated: 1
 EndChar
 
 StartChar: icircumflex
-Encoding: 173 238 152
+Encoding: 238 238 152
 Width: 177
 VWidth: 0
 Flags: HM
@@ -3814,7 +3814,7 @@ Validated: 1
 EndChar
 
 StartChar: idieresis
-Encoding: 174 239 153
+Encoding: 239 239 153
 Width: 177
 VWidth: 0
 Flags: HM
@@ -3826,7 +3826,7 @@ Validated: 1
 EndChar
 
 StartChar: ntilde
-Encoding: 176 241 154
+Encoding: 241 241 154
 Width: 340
 VWidth: 0
 Flags: HM
@@ -3838,7 +3838,7 @@ Validated: 1
 EndChar
 
 StartChar: ograve
-Encoding: 177 242 155
+Encoding: 242 242 155
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -3849,7 +3849,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oacute
-Encoding: 178 243 156
+Encoding: 243 243 156
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -3860,7 +3860,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
-Encoding: 179 244 157
+Encoding: 244 244 157
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -3871,7 +3871,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: otilde
-Encoding: 180 245 158
+Encoding: 245 245 158
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -3882,7 +3882,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
-Encoding: 181 246 159
+Encoding: 246 246 159
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -3893,7 +3893,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
-Encoding: 184 249 160
+Encoding: 249 249 160
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3905,7 +3905,7 @@ Validated: 1
 EndChar
 
 StartChar: uacute
-Encoding: 185 250 161
+Encoding: 250 250 161
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3917,7 +3917,7 @@ Validated: 1
 EndChar
 
 StartChar: ucircumflex
-Encoding: 186 251 162
+Encoding: 251 251 162
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3929,7 +3929,7 @@ Validated: 1
 EndChar
 
 StartChar: udieresis
-Encoding: 187 252 163
+Encoding: 252 252 163
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -3941,7 +3941,7 @@ Validated: 1
 EndChar
 
 StartChar: yacute
-Encoding: 188 253 164
+Encoding: 253 253 164
 Width: 340
 VWidth: 0
 Flags: HM
@@ -3953,7 +3953,7 @@ Validated: 1
 EndChar
 
 StartChar: ydieresis
-Encoding: 190 255 165
+Encoding: 255 255 165
 Width: 340
 VWidth: 0
 Flags: HM
@@ -3965,7 +3965,7 @@ Validated: 1
 EndChar
 
 StartChar: scaron
-Encoding: 255 353 166
+Encoding: 168 353 166
 Width: 280
 VWidth: 0
 Flags: HM
@@ -3977,7 +3977,7 @@ Validated: 1
 EndChar
 
 StartChar: zcaron
-Encoding: 274 382 167
+Encoding: 184 382 167
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -3989,7 +3989,7 @@ Validated: 1
 EndChar
 
 StartChar: macroncomb
-Encoding: 295 772 168
+Encoding: 274 772 168
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4007,7 +4007,7 @@ Validated: 1
 EndChar
 
 StartChar: dotcomb
-Encoding: 297 775 169
+Encoding: 275 775 169
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4025,7 +4025,7 @@ Validated: 1
 EndChar
 
 StartChar: hungarumlautcomb
-Encoding: 300 779 170
+Encoding: 276 779 170
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4048,7 +4048,7 @@ Validated: 1
 EndChar
 
 StartChar: uni030D
-Encoding: 302 781 171
+Encoding: 277 781 171
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4060,7 +4060,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0315
-Encoding: 303 789 172
+Encoding: 278 789 172
 Width: 100
 VWidth: 0
 Flags: HMW
@@ -4078,7 +4078,7 @@ Validated: 1
 EndChar
 
 StartChar: grave.cap
-Encoding: 356 -1 173
+Encoding: 279 -1 173
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4097,7 +4097,7 @@ Colour: c48cff
 EndChar
 
 StartChar: acute.cap
-Encoding: 357 -1 174
+Encoding: 280 -1 174
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4116,7 +4116,7 @@ Colour: c48cff
 EndChar
 
 StartChar: circumflex.cap
-Encoding: 358 -1 175
+Encoding: 281 -1 175
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4137,7 +4137,7 @@ Colour: c48cff
 EndChar
 
 StartChar: tilde.cap
-Encoding: 359 -1 176
+Encoding: 282 -1 176
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4160,7 +4160,7 @@ Colour: c48cff
 EndChar
 
 StartChar: breve.cap
-Encoding: 360 -1 177
+Encoding: 283 -1 177
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4181,7 +4181,7 @@ Colour: c48cff
 EndChar
 
 StartChar: ring.cap
-Encoding: 361 -1 178
+Encoding: 284 -1 178
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4204,7 +4204,7 @@ Colour: c48cff
 EndChar
 
 StartChar: dieresis.cap
-Encoding: 362 -1 179
+Encoding: 285 -1 179
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4228,7 +4228,7 @@ Colour: c48cff
 EndChar
 
 StartChar: caron.cap
-Encoding: 363 -1 180
+Encoding: 286 -1 180
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4249,7 +4249,7 @@ Colour: c48cff
 EndChar
 
 StartChar: macron.cap
-Encoding: 364 -1 181
+Encoding: 287 -1 181
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4268,7 +4268,7 @@ Colour: c48cff
 EndChar
 
 StartChar: dotaccent.cap
-Encoding: 365 -1 182
+Encoding: 288 -1 182
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4287,7 +4287,7 @@ Colour: c48cff
 EndChar
 
 StartChar: hungarumlaut.cap
-Encoding: 366 -1 183
+Encoding: 289 -1 183
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -4311,7 +4311,7 @@ Colour: c48cff
 EndChar
 
 StartChar: Agrave
-Encoding: 127 192 184
+Encoding: 192 192 184
 Width: 323
 VWidth: 0
 Flags: HM
@@ -4322,7 +4322,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Acircumflex
-Encoding: 129 194 185
+Encoding: 194 194 185
 Width: 323
 VWidth: 0
 Flags: HM
@@ -4333,7 +4333,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Atilde
-Encoding: 130 195 186
+Encoding: 195 195 186
 Width: 323
 VWidth: 0
 Flags: HM
@@ -4344,7 +4344,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Adieresis
-Encoding: 131 196 187
+Encoding: 196 196 187
 Width: 323
 VWidth: 0
 Flags: HM
@@ -4355,7 +4355,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aring
-Encoding: 132 197 188
+Encoding: 197 197 188
 Width: 323
 VWidth: 0
 Flags: HM
@@ -4366,7 +4366,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
-Encoding: 135 200 189
+Encoding: 200 200 189
 Width: 285
 VWidth: 0
 Flags: HM
@@ -4378,7 +4378,7 @@ Validated: 5
 EndChar
 
 StartChar: Eacute
-Encoding: 136 201 190
+Encoding: 201 201 190
 Width: 285
 VWidth: 0
 Flags: HM
@@ -4390,7 +4390,7 @@ Validated: 5
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 137 202 191
+Encoding: 202 202 191
 Width: 285
 VWidth: 0
 Flags: HM
@@ -4402,7 +4402,7 @@ Validated: 5
 EndChar
 
 StartChar: Edieresis
-Encoding: 138 203 192
+Encoding: 203 203 192
 Width: 285
 VWidth: 0
 Flags: HM
@@ -4414,7 +4414,7 @@ Validated: 5
 EndChar
 
 StartChar: Igrave
-Encoding: 139 204 193
+Encoding: 204 204 193
 Width: 164
 VWidth: 0
 Flags: HM
@@ -4426,7 +4426,7 @@ Validated: 1
 EndChar
 
 StartChar: Iacute
-Encoding: 140 205 194
+Encoding: 205 205 194
 Width: 164
 VWidth: 0
 Flags: HM
@@ -4438,7 +4438,7 @@ Validated: 1
 EndChar
 
 StartChar: Icircumflex
-Encoding: 141 206 195
+Encoding: 206 206 195
 Width: 164
 VWidth: 0
 Flags: HM
@@ -4450,7 +4450,7 @@ Validated: 1
 EndChar
 
 StartChar: Idieresis
-Encoding: 142 207 196
+Encoding: 207 207 196
 Width: 164
 VWidth: 0
 Flags: HM
@@ -4462,7 +4462,7 @@ Validated: 1
 EndChar
 
 StartChar: Ntilde
-Encoding: 144 209 197
+Encoding: 209 209 197
 Width: 364
 VWidth: 0
 Flags: HM
@@ -4474,7 +4474,7 @@ Validated: 1
 EndChar
 
 StartChar: Ograve
-Encoding: 145 210 198
+Encoding: 210 210 198
 Width: 355
 VWidth: 0
 Flags: HM
@@ -4486,7 +4486,7 @@ Validated: 1
 EndChar
 
 StartChar: Oacute
-Encoding: 146 211 199
+Encoding: 211 211 199
 Width: 355
 VWidth: 0
 Flags: HM
@@ -4498,7 +4498,7 @@ Validated: 1
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 147 212 200
+Encoding: 212 212 200
 Width: 355
 VWidth: 0
 Flags: HM
@@ -4510,7 +4510,7 @@ Validated: 1
 EndChar
 
 StartChar: Otilde
-Encoding: 148 213 201
+Encoding: 213 213 201
 Width: 355
 VWidth: 0
 Flags: HM
@@ -4522,7 +4522,7 @@ Validated: 1
 EndChar
 
 StartChar: Odieresis
-Encoding: 149 214 202
+Encoding: 214 214 202
 Width: 355
 VWidth: 0
 Flags: HM
@@ -4534,7 +4534,7 @@ Validated: 1
 EndChar
 
 StartChar: Ugrave
-Encoding: 152 217 203
+Encoding: 217 217 203
 Width: 349
 VWidth: 0
 Flags: HM
@@ -4546,7 +4546,7 @@ Validated: 1
 EndChar
 
 StartChar: Uacute
-Encoding: 153 218 204
+Encoding: 218 218 204
 Width: 349
 VWidth: 0
 Flags: HM
@@ -4558,7 +4558,7 @@ Validated: 1
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 154 219 205
+Encoding: 219 219 205
 Width: 349
 VWidth: 0
 Flags: HM
@@ -4570,7 +4570,7 @@ Validated: 1
 EndChar
 
 StartChar: Udieresis
-Encoding: 155 220 206
+Encoding: 220 220 206
 Width: 349
 VWidth: 0
 Flags: HM
@@ -4582,7 +4582,7 @@ Validated: 1
 EndChar
 
 StartChar: Yacute
-Encoding: 156 221 207
+Encoding: 221 221 207
 Width: 278
 VWidth: 0
 Flags: HM
@@ -4594,7 +4594,7 @@ Validated: 1
 EndChar
 
 StartChar: Scaron
-Encoding: 254 352 208
+Encoding: 166 352 208
 Width: 275
 VWidth: 0
 Flags: HM
@@ -4606,7 +4606,7 @@ Validated: 1
 EndChar
 
 StartChar: Zcaron
-Encoding: 273 381 209
+Encoding: 180 381 209
 Width: 286
 VWidth: 0
 Flags: HM
@@ -4618,7 +4618,7 @@ Validated: 1
 EndChar
 
 StartChar: Ydieresis
-Encoding: 268 376 210
+Encoding: 190 376 210
 Width: 278
 VWidth: 0
 Flags: HM
@@ -4630,7 +4630,7 @@ Validated: 1
 EndChar
 
 StartChar: ccedilla
-Encoding: 166 231 211
+Encoding: 231 231 211
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -4642,7 +4642,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0327
-Encoding: 305 807 212
+Encoding: 290 807 212
 Width: 0
 VWidth: 0
 Flags: MW
@@ -4664,7 +4664,7 @@ Validated: 1
 EndChar
 
 StartChar: Ccedilla
-Encoding: 134 199 213
+Encoding: 199 199 213
 Width: 293
 VWidth: 0
 Flags: HM
@@ -4676,7 +4676,7 @@ Validated: 5
 EndChar
 
 StartChar: Oslash
-Encoding: 151 216 214
+Encoding: 216 216 214
 Width: 355
 VWidth: 0
 Flags: MW
@@ -4703,7 +4703,7 @@ Validated: 5
 EndChar
 
 StartChar: oslash
-Encoding: 183 248 215
+Encoding: 248 248 215
 Width: 308
 VWidth: 0
 Flags: MW
@@ -4730,7 +4730,7 @@ Validated: 5
 EndChar
 
 StartChar: Eth
-Encoding: 143 208 216
+Encoding: 208 208 216
 Width: 368
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -4748,7 +4748,7 @@ Refer: 31 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: multiply
-Encoding: 150 215 217
+Encoding: 215 215 217
 Width: 380
 VWidth: 0
 Flags: MW
@@ -4773,7 +4773,7 @@ Validated: 1
 EndChar
 
 StartChar: grave
-Encoding: 64 96 218
+Encoding: 96 96 218
 Width: 262
 VWidth: 0
 Flags: HMW
@@ -4784,7 +4784,7 @@ Validated: 1
 EndChar
 
 StartChar: amacron
-Encoding: 191 257 219
+Encoding: 291 257 219
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -4795,7 +4795,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: macron
-Encoding: 110 175 220
+Encoding: 175 175 220
 Width: 289
 VWidth: 0
 Flags: HMW
@@ -4806,7 +4806,7 @@ Validated: 1
 EndChar
 
 StartChar: ordfeminine
-Encoding: 105 170 221
+Encoding: 170 170 221
 Width: 300
 VWidth: 0
 Flags: HMW
@@ -4830,7 +4830,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 121 186 222
+Encoding: 186 186 222
 Width: 292
 VWidth: 0
 Flags: HMW
@@ -4851,7 +4851,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 120 185 223
+Encoding: 185 185 223
 Width: 204
 VWidth: 0
 Flags: HMW
@@ -4870,7 +4870,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 113 178 224
+Encoding: 178 178 224
 Width: 200
 VWidth: 0
 Flags: HMW
@@ -4893,7 +4893,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 114 179 225
+Encoding: 179 179 225
 Width: 202
 VWidth: 0
 Flags: HMW
@@ -4920,7 +4920,7 @@ EndSplineSet
 EndChar
 
 StartChar: Abreve
-Encoding: 192 258 226
+Encoding: 292 258 226
 Width: 323
 VWidth: 0
 Flags: HMW
@@ -4931,7 +4931,7 @@ Refer: 28 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: abreve
-Encoding: 193 259 227
+Encoding: 293 259 227
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -4942,7 +4942,7 @@ Refer: 9 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aogonek
-Encoding: 194 260 228
+Encoding: 294 260 228
 Width: 323
 VWidth: 0
 Flags: HMW
@@ -4970,7 +4970,7 @@ EndSplineSet
 EndChar
 
 StartChar: aogonek
-Encoding: 195 261 229
+Encoding: 295 261 229
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -4998,7 +4998,7 @@ EndSplineSet
 EndChar
 
 StartChar: Cacute
-Encoding: 196 262 230
+Encoding: 296 262 230
 Width: 293
 VWidth: 0
 Flags: HMW
@@ -5010,7 +5010,7 @@ Validated: 1
 EndChar
 
 StartChar: cacute
-Encoding: 197 263 231
+Encoding: 297 263 231
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -5022,7 +5022,7 @@ Validated: 1
 EndChar
 
 StartChar: Ccaron
-Encoding: 198 268 232
+Encoding: 298 268 232
 Width: 293
 VWidth: 0
 Flags: HMW
@@ -5034,7 +5034,7 @@ Validated: 1
 EndChar
 
 StartChar: ccaron
-Encoding: 199 269 233
+Encoding: 299 269 233
 Width: 253
 VWidth: 0
 Flags: HMW
@@ -5046,7 +5046,7 @@ Validated: 1
 EndChar
 
 StartChar: Dcaron
-Encoding: 200 270 234
+Encoding: 300 270 234
 Width: 368
 VWidth: 0
 Flags: HMW
@@ -5058,7 +5058,7 @@ Validated: 1
 EndChar
 
 StartChar: dcaron
-Encoding: 201 271 235
+Encoding: 301 271 235
 Width: 408
 VWidth: 0
 Flags: HMW
@@ -5069,7 +5069,7 @@ Refer: 13 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Dcroat
-Encoding: 202 272 236
+Encoding: 302 272 236
 Width: 368
 VWidth: 0
 Flags: HMW
@@ -5079,7 +5079,7 @@ Refer: 216 208 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: dcroat
-Encoding: 203 273 237
+Encoding: 303 273 237
 Width: 340
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -5097,7 +5097,7 @@ Refer: 13 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Emacron
-Encoding: 204 274 238
+Encoding: 304 274 238
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -5109,7 +5109,7 @@ Validated: 5
 EndChar
 
 StartChar: emacron
-Encoding: 205 275 239
+Encoding: 305 275 239
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -5120,7 +5120,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edotaccent
-Encoding: 206 278 240
+Encoding: 306 278 240
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -5132,7 +5132,7 @@ Validated: 5
 EndChar
 
 StartChar: edotaccent
-Encoding: 207 279 241
+Encoding: 307 279 241
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -5143,7 +5143,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eogonek
-Encoding: 208 280 242
+Encoding: 308 280 242
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -5179,7 +5179,7 @@ EndSplineSet
 EndChar
 
 StartChar: eogonek
-Encoding: 209 281 243
+Encoding: 309 281 243
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -5209,7 +5209,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ecaron
-Encoding: 210 282 244
+Encoding: 310 282 244
 Width: 285
 VWidth: 0
 Flags: HMW
@@ -5221,7 +5221,7 @@ Validated: 5
 EndChar
 
 StartChar: ecaron
-Encoding: 211 283 245
+Encoding: 311 283 245
 Width: 295
 VWidth: 0
 Flags: HMW
@@ -5232,7 +5232,7 @@ Refer: 1 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gbreve
-Encoding: 212 286 246
+Encoding: 312 286 246
 Width: 336
 VWidth: 0
 Flags: HMW
@@ -5244,7 +5244,7 @@ Validated: 5
 EndChar
 
 StartChar: gbreve
-Encoding: 213 287 247
+Encoding: 313 287 247
 Width: 333
 VWidth: 0
 Flags: HMW
@@ -5255,7 +5255,7 @@ Refer: 7 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0122
-Encoding: 214 290 248
+Encoding: 314 290 248
 Width: 336
 VWidth: 0
 Flags: HMW
@@ -5267,7 +5267,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0123
-Encoding: 215 291 249
+Encoding: 315 291 249
 Width: 333
 VWidth: 0
 Flags: HMW
@@ -5278,7 +5278,7 @@ Refer: 7 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Imacron
-Encoding: 216 298 250
+Encoding: 316 298 250
 Width: 164
 VWidth: 0
 Flags: HMW
@@ -5290,7 +5290,7 @@ Validated: 1
 EndChar
 
 StartChar: imacron
-Encoding: 217 299 251
+Encoding: 317 299 251
 Width: 177
 VWidth: 0
 Flags: HMW
@@ -5302,7 +5302,7 @@ Validated: 1
 EndChar
 
 StartChar: Iogonek
-Encoding: 218 302 252
+Encoding: 318 302 252
 Width: 164
 VWidth: 0
 Flags: HMW
@@ -5322,7 +5322,7 @@ EndSplineSet
 EndChar
 
 StartChar: iogonek
-Encoding: 219 303 253
+Encoding: 319 303 253
 Width: 177
 VWidth: 0
 Flags: HMW
@@ -5347,7 +5347,7 @@ EndSplineSet
 EndChar
 
 StartChar: Idotaccent
-Encoding: 220 304 254
+Encoding: 320 304 254
 Width: 164
 VWidth: 0
 Flags: HMW
@@ -5359,7 +5359,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0136
-Encoding: 222 310 255
+Encoding: 321 310 255
 Width: 342
 VWidth: 0
 Flags: HMW
@@ -5371,7 +5371,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0137
-Encoding: 223 311 256
+Encoding: 322 311 256
 Width: 321
 VWidth: 0
 Flags: HMW
@@ -5383,7 +5383,7 @@ Validated: 5
 EndChar
 
 StartChar: Lacute
-Encoding: 224 313 257
+Encoding: 323 313 257
 Width: 288
 VWidth: 0
 Flags: HMW
@@ -5395,7 +5395,7 @@ Validated: 5
 EndChar
 
 StartChar: lacute
-Encoding: 225 314 258
+Encoding: 324 314 258
 Width: 177
 VWidth: 0
 Flags: HMW
@@ -5413,7 +5413,7 @@ Validated: 1
 EndChar
 
 StartChar: uni013B
-Encoding: 226 315 259
+Encoding: 325 315 259
 Width: 288
 VWidth: 0
 Flags: HMW
@@ -5425,7 +5425,7 @@ Validated: 5
 EndChar
 
 StartChar: uni013C
-Encoding: 227 316 260
+Encoding: 326 316 260
 Width: 166
 VWidth: 0
 Flags: HMW
@@ -5437,7 +5437,7 @@ Validated: 1
 EndChar
 
 StartChar: Lcaron
-Encoding: 228 317 261
+Encoding: 327 317 261
 Width: 288
 VWidth: 0
 Flags: HMW
@@ -5449,7 +5449,7 @@ Validated: 5
 EndChar
 
 StartChar: lcaron
-Encoding: 229 318 262
+Encoding: 328 318 262
 Width: 226
 VWidth: 0
 Flags: HMW
@@ -5461,7 +5461,7 @@ Validated: 1
 EndChar
 
 StartChar: Lslash
-Encoding: 230 321 263
+Encoding: 329 321 263
 Width: 288
 VWidth: 0
 Flags: HMW
@@ -5481,7 +5481,7 @@ Validated: 5
 EndChar
 
 StartChar: lslash
-Encoding: 231 322 264
+Encoding: 330 322 264
 Width: 166
 VWidth: 0
 Flags: HMW
@@ -5501,7 +5501,7 @@ Validated: 5
 EndChar
 
 StartChar: Nacute
-Encoding: 232 323 265
+Encoding: 331 323 265
 Width: 364
 VWidth: 0
 Flags: HMW
@@ -5513,7 +5513,7 @@ Validated: 1
 EndChar
 
 StartChar: nacute
-Encoding: 233 324 266
+Encoding: 332 324 266
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5525,7 +5525,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0145
-Encoding: 234 325 267
+Encoding: 333 325 267
 Width: 364
 VWidth: 0
 Flags: HMW
@@ -5537,7 +5537,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0146
-Encoding: 235 326 268
+Encoding: 334 326 268
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5549,7 +5549,7 @@ Validated: 1
 EndChar
 
 StartChar: Ncaron
-Encoding: 236 327 269
+Encoding: 335 327 269
 Width: 364
 VWidth: 0
 Flags: HMW
@@ -5561,7 +5561,7 @@ Validated: 1
 EndChar
 
 StartChar: ncaron
-Encoding: 237 328 270
+Encoding: 336 328 270
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5573,7 +5573,7 @@ Validated: 1
 EndChar
 
 StartChar: Omacron
-Encoding: 238 332 271
+Encoding: 337 332 271
 Width: 355
 VWidth: 0
 Flags: HMW
@@ -5585,7 +5585,7 @@ Validated: 1
 EndChar
 
 StartChar: omacron
-Encoding: 239 333 272
+Encoding: 338 333 272
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -5596,7 +5596,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 240 336 273
+Encoding: 339 336 273
 Width: 355
 VWidth: 0
 Flags: HMW
@@ -5608,7 +5608,7 @@ Validated: 1
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 241 337 274
+Encoding: 340 337 274
 Width: 311
 VWidth: 0
 Flags: HMW
@@ -5619,7 +5619,7 @@ Refer: 6 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Racute
-Encoding: 244 340 275
+Encoding: 341 340 275
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -5631,7 +5631,7 @@ Validated: 5
 EndChar
 
 StartChar: racute
-Encoding: 245 341 276
+Encoding: 342 341 276
 Width: 268
 VWidth: 0
 Flags: HMW
@@ -5642,7 +5642,7 @@ Refer: 0 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0156
-Encoding: 246 342 277
+Encoding: 343 342 277
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -5654,7 +5654,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0157
-Encoding: 247 343 278
+Encoding: 344 343 278
 Width: 268
 VWidth: 0
 Flags: HMW
@@ -5665,7 +5665,7 @@ Refer: 0 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Rcaron
-Encoding: 248 344 279
+Encoding: 345 344 279
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -5677,7 +5677,7 @@ Validated: 5
 EndChar
 
 StartChar: rcaron
-Encoding: 249 345 280
+Encoding: 346 345 280
 Width: 268
 VWidth: 0
 Flags: HMW
@@ -5688,7 +5688,7 @@ Refer: 0 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Sacute
-Encoding: 250 346 281
+Encoding: 347 346 281
 Width: 275
 VWidth: 0
 Flags: HMW
@@ -5700,7 +5700,7 @@ Validated: 1
 EndChar
 
 StartChar: sacute
-Encoding: 251 347 282
+Encoding: 348 347 282
 Width: 280
 VWidth: 0
 Flags: HMW
@@ -5712,7 +5712,7 @@ Validated: 1
 EndChar
 
 StartChar: Scedilla
-Encoding: 252 350 283
+Encoding: 349 350 283
 Width: 275
 VWidth: 0
 Flags: HMW
@@ -5724,7 +5724,7 @@ Validated: 5
 EndChar
 
 StartChar: scedilla
-Encoding: 253 351 284
+Encoding: 350 351 284
 Width: 280
 VWidth: 0
 Flags: HMW
@@ -5736,7 +5736,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0162
-Encoding: 256 354 285
+Encoding: 351 354 285
 Width: 272
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -5748,7 +5748,7 @@ Refer: 47 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0163
-Encoding: 257 355 286
+Encoding: 352 355 286
 Width: 236
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -5760,7 +5760,7 @@ Refer: 20 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Tcaron
-Encoding: 258 356 287
+Encoding: 353 356 287
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -5772,7 +5772,7 @@ Validated: 5
 EndChar
 
 StartChar: tcaron
-Encoding: 259 357 288
+Encoding: 354 357 288
 Width: 236
 VWidth: 0
 Flags: HMW
@@ -5784,7 +5784,7 @@ Validated: 5
 EndChar
 
 StartChar: Umacron
-Encoding: 260 362 289
+Encoding: 355 362 289
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -5796,7 +5796,7 @@ Validated: 1
 EndChar
 
 StartChar: umacron
-Encoding: 261 363 290
+Encoding: 356 363 290
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5808,7 +5808,7 @@ Validated: 1
 EndChar
 
 StartChar: Uring
-Encoding: 262 366 291
+Encoding: 357 366 291
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -5819,7 +5819,7 @@ Refer: 48 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uring
-Encoding: 263 367 292
+Encoding: 358 367 292
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5830,7 +5830,7 @@ Refer: 2 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 264 368 293
+Encoding: 359 368 293
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -5842,7 +5842,7 @@ Validated: 1
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 265 369 294
+Encoding: 360 369 294
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5854,7 +5854,7 @@ Validated: 1
 EndChar
 
 StartChar: Uogonek
-Encoding: 266 370 295
+Encoding: 361 370 295
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -5865,7 +5865,7 @@ Refer: 48 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uogonek
-Encoding: 267 371 296
+Encoding: 362 371 296
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -5890,7 +5890,7 @@ EndSplineSet
 EndChar
 
 StartChar: Zacute
-Encoding: 269 377 297
+Encoding: 363 377 297
 Width: 286
 VWidth: 0
 Flags: HMW
@@ -5902,7 +5902,7 @@ Validated: 1
 EndChar
 
 StartChar: zacute
-Encoding: 270 378 298
+Encoding: 364 378 298
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -5914,7 +5914,7 @@ Validated: 1
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 271 379 299
+Encoding: 365 379 299
 Width: 286
 VWidth: 0
 Flags: HMW
@@ -5926,7 +5926,7 @@ Validated: 1
 EndChar
 
 StartChar: zdotaccent
-Encoding: 272 380 300
+Encoding: 366 380 300
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -5938,7 +5938,7 @@ Validated: 1
 EndChar
 
 StartChar: florin
-Encoding: 275 402 301
+Encoding: 367 402 301
 Width: 364
 VWidth: 0
 Flags: HMW
@@ -5967,7 +5967,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0218
-Encoding: 276 536 302
+Encoding: 368 536 302
 Width: 275
 VWidth: 0
 Flags: HMW
@@ -5979,7 +5979,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0219
-Encoding: 277 537 303
+Encoding: 369 537 303
 Width: 280
 VWidth: 0
 Flags: HMW
@@ -5991,7 +5991,7 @@ Validated: 1
 EndChar
 
 StartChar: uni021A
-Encoding: 278 538 304
+Encoding: 370 538 304
 Width: 272
 VWidth: 0
 Flags: HMW
@@ -6003,7 +6003,7 @@ Validated: 5
 EndChar
 
 StartChar: uni021B
-Encoding: 279 539 305
+Encoding: 371 539 305
 Width: 236
 VWidth: 0
 Flags: HMW
@@ -6015,7 +6015,7 @@ Validated: 5
 EndChar
 
 StartChar: pi
-Encoding: 309 960 306
+Encoding: 372 960 306
 Width: 370
 VWidth: 0
 Flags: HMW
@@ -6041,7 +6041,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 316 8218 307
+Encoding: 373 8218 307
 Width: 109
 VWidth: 0
 Flags: HMW
@@ -6052,7 +6052,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblbase
-Encoding: 319 8222 308
+Encoding: 374 8222 308
 Width: 238
 VWidth: 0
 Flags: HMW
@@ -6063,7 +6063,7 @@ Validated: 1
 EndChar
 
 StartChar: dagger
-Encoding: 320 8224 309
+Encoding: 375 8224 309
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6088,7 +6088,7 @@ Validated: 1
 EndChar
 
 StartChar: daggerdbl
-Encoding: 321 8225 310
+Encoding: 376 8225 310
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6121,7 +6121,7 @@ Validated: 1
 EndChar
 
 StartChar: bullet
-Encoding: 322 8226 311
+Encoding: 377 8226 311
 Width: 292
 VWidth: 0
 Flags: HMW
@@ -6137,7 +6137,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 323 8230 312
+Encoding: 378 8230 312
 Width: 661
 VWidth: 0
 Flags: HMW
@@ -6150,7 +6150,7 @@ Validated: 1
 EndChar
 
 StartChar: perthousand
-Encoding: 324 8240 313
+Encoding: 379 8240 313
 Width: 874
 VWidth: 0
 Flags: HMW
@@ -6172,7 +6172,7 @@ Refer: 87 37 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 325 8249 314
+Encoding: 380 8249 314
 Width: 238
 VWidth: 0
 Flags: HMW
@@ -6191,7 +6191,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglright
-Encoding: 326 8250 315
+Encoding: 381 8250 315
 Width: 242
 VWidth: 0
 Flags: HMW
@@ -6210,7 +6210,7 @@ Validated: 1
 EndChar
 
 StartChar: fraction
-Encoding: 327 8260 316
+Encoding: 382 8260 316
 Width: 110
 VWidth: 0
 Flags: HMW
@@ -6227,7 +6227,7 @@ Validated: 1
 EndChar
 
 StartChar: uni20BA
-Encoding: 330 8378 317
+Encoding: 383 8378 317
 Width: 360
 VWidth: 0
 Flags: HMW
@@ -6261,7 +6261,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni20BD
-Encoding: 331 8381 318
+Encoding: 384 8381 318
 Width: 337
 VWidth: 0
 Flags: HMW
@@ -6292,7 +6292,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2113
-Encoding: 332 8467 319
+Encoding: 385 8467 319
 Width: 250
 VWidth: 0
 Flags: HMW
@@ -6314,7 +6314,7 @@ EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 333 8482 320
+Encoding: 386 8482 320
 Width: 609
 VWidth: 0
 Flags: HMW
@@ -6350,7 +6350,7 @@ Validated: 5
 EndChar
 
 StartChar: Omega
-Encoding: 334 8486 321
+Encoding: 387 8486 321
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6378,7 +6378,7 @@ EndSplineSet
 EndChar
 
 StartChar: estimated
-Encoding: 335 8494 322
+Encoding: 388 8494 322
 Width: 513
 Flags: HMW
 LayerCount: 2
@@ -6405,7 +6405,7 @@ Validated: 1
 EndChar
 
 StartChar: partialdiff
-Encoding: 336 8706 323
+Encoding: 389 8706 323
 Width: 340
 VWidth: 0
 Flags: HMW
@@ -6429,7 +6429,7 @@ EndSplineSet
 EndChar
 
 StartChar: Delta
-Encoding: 337 8710 324
+Encoding: 390 8710 324
 Width: 323
 VWidth: 0
 Flags: HMW
@@ -6452,7 +6452,7 @@ Validated: 1
 EndChar
 
 StartChar: product
-Encoding: 338 8719 325
+Encoding: 391 8719 325
 Width: 489
 VWidth: 0
 Flags: HMW
@@ -6478,7 +6478,7 @@ EndSplineSet
 EndChar
 
 StartChar: summation
-Encoding: 339 8721 326
+Encoding: 392 8721 326
 Width: 389
 VWidth: 0
 Flags: HMW
@@ -6502,7 +6502,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2215
-Encoding: 341 8725 327
+Encoding: 393 8725 327
 Width: 216
 VWidth: 0
 Flags: HMW
@@ -6513,7 +6513,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2219
-Encoding: 342 8729 328
+Encoding: 394 8729 328
 Width: 187
 VWidth: 0
 Flags: HMW
@@ -6524,7 +6524,7 @@ Validated: 1
 EndChar
 
 StartChar: radical
-Encoding: 343 8730 329
+Encoding: 395 8730 329
 Width: 420
 VWidth: 0
 Flags: HMW
@@ -6546,7 +6546,7 @@ Validated: 1
 EndChar
 
 StartChar: infinity
-Encoding: 344 8734 330
+Encoding: 396 8734 330
 Width: 511
 VWidth: 0
 Flags: HMW
@@ -6576,7 +6576,7 @@ EndSplineSet
 EndChar
 
 StartChar: integral
-Encoding: 345 8747 331
+Encoding: 397 8747 331
 Width: 325
 VWidth: 0
 Flags: HMW
@@ -6600,7 +6600,7 @@ EndSplineSet
 EndChar
 
 StartChar: approxequal
-Encoding: 346 8776 332
+Encoding: 398 8776 332
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6629,7 +6629,7 @@ EndSplineSet
 EndChar
 
 StartChar: notequal
-Encoding: 347 8800 333
+Encoding: 399 8800 333
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6647,7 +6647,7 @@ Validated: 5
 EndChar
 
 StartChar: lessequal
-Encoding: 348 8804 334
+Encoding: 400 8804 334
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6671,7 +6671,7 @@ Validated: 1
 EndChar
 
 StartChar: greaterequal
-Encoding: 349 8805 335
+Encoding: 401 8805 335
 Width: 380
 VWidth: 0
 Flags: HMW
@@ -6695,7 +6695,7 @@ Validated: 1
 EndChar
 
 StartChar: lozenge
-Encoding: 350 9674 336
+Encoding: 402 9674 336
 Width: 330
 VWidth: 0
 Flags: HMW
@@ -6719,7 +6719,7 @@ Validated: 1
 EndChar
 
 StartChar: fi
-Encoding: 352 64257 337
+Encoding: 403 64257 337
 Width: 418
 VWidth: 0
 Flags: HMW
@@ -6751,7 +6751,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: fl
-Encoding: 353 64258 338
+Encoding: 404 64258 338
 Width: 407
 VWidth: 0
 Flags: HMW
@@ -6780,7 +6780,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: ff
-Encoding: 351 64256 339
+Encoding: 405 64256 339
 Width: 482
 VWidth: 0
 Flags: HMW
@@ -6816,7 +6816,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f f
 EndChar
 
 StartChar: ffi
-Encoding: 354 64259 340
+Encoding: 406 64259 340
 Width: 659
 VWidth: 0
 Flags: HMW
@@ -6857,7 +6857,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f f i
 EndChar
 
 StartChar: ffl
-Encoding: 355 64260 341
+Encoding: 407 64260 341
 Width: 648
 VWidth: 0
 Flags: HMW
@@ -6895,7 +6895,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f f l
 EndChar
 
 StartChar: onequarter
-Encoding: 123 188 342
+Encoding: 408 188 342
 Width: 522
 VWidth: 0
 Flags: HMW
@@ -6907,7 +6907,7 @@ Refer: 316 8260 N 1 0 0 1 194 0 2
 EndChar
 
 StartChar: onehalf
-Encoding: 124 189 343
+Encoding: 409 189 343
 Width: 514
 VWidth: 0
 Flags: HMW
@@ -6919,7 +6919,7 @@ Refer: 316 8260 N 1 0 0 1 194 0 2
 EndChar
 
 StartChar: threequarters
-Encoding: 125 190 344
+Encoding: 410 190 344
 Width: 524
 VWidth: 0
 Flags: HMW
@@ -6931,7 +6931,7 @@ Refer: 316 8260 N 1 0 0 1 196 0 2
 EndChar
 
 StartChar: cedilla
-Encoding: 119 184 345
+Encoding: 411 184 345
 Width: 209
 VWidth: 0
 Flags: HMW
@@ -6942,7 +6942,7 @@ Validated: 1
 EndChar
 
 StartChar: acute
-Encoding: 115 180 346
+Encoding: 412 180 346
 Width: 262
 VWidth: 0
 Flags: HMW
@@ -6953,7 +6953,7 @@ Validated: 1
 EndChar
 
 StartChar: dieresis
-Encoding: 103 168 347
+Encoding: 413 168 347
 Width: 317
 VWidth: 0
 Flags: HMW
@@ -6964,7 +6964,7 @@ Validated: 1
 EndChar
 
 StartChar: brokenbar
-Encoding: 101 166 348
+Encoding: 414 166 348
 Width: 200
 VWidth: 0
 Flags: HMW
@@ -6985,17 +6985,15 @@ EndSplineSet
 EndChar
 
 StartChar: uni00A0
-Encoding: 95 160 349
-Width: 250
+Encoding: 160 160 349
+Width: 180
 VWidth: 0
 Flags: HMW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: currency
-Encoding: 99 164 350
+Encoding: 415 164 350
 Width: 423
 VWidth: 0
 Flags: HMW
@@ -7037,7 +7035,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0328
-Encoding: 306 808 351
+Encoding: 416 808 351
 Width: 349
 VWidth: 0
 Flags: HMW
@@ -7056,7 +7054,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0326
-Encoding: 304 806 352
+Encoding: 417 806 352
 Width: 0
 VWidth: 0
 Flags: HMW
@@ -7074,7 +7072,7 @@ Validated: 1
 EndChar
 
 StartChar: Pi
-Encoding: 307 928 353
+Encoding: 418 928 353
 Width: 351
 VWidth: 0
 Flags: HMW
@@ -7100,7 +7098,7 @@ EndSplineSet
 EndChar
 
 StartChar: Sigma
-Encoding: 308 931 354
+Encoding: 419 931 354
 Width: 290
 VWidth: 0
 Flags: HMW
@@ -7124,7 +7122,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2074
-Encoding: 328 8308 355
+Encoding: 420 8308 355
 Width: 232
 VWidth: 0
 Flags: HMW
@@ -7147,7 +7145,7 @@ Validated: 5
 EndChar
 
 StartChar: uni02CA
-Encoding: 283 714 356
+Encoding: 421 714 356
 Width: 262
 VWidth: 0
 Flags: MW
@@ -7159,7 +7157,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: uni02CB
-Encoding: 284 715 357
+Encoding: 422 715 357
 Width: 262
 VWidth: 0
 Flags: MW
@@ -7171,7 +7169,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: circumflex
-Encoding: 280 710 358
+Encoding: 423 710 358
 Width: 347
 VWidth: 0
 Flags: MW
@@ -7183,7 +7181,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: caron
-Encoding: 281 711 359
+Encoding: 424 711 359
 Width: 347
 VWidth: 0
 Flags: MW
@@ -7195,7 +7193,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: tilde
-Encoding: 289 732 360
+Encoding: 425 732 360
 Width: 361
 VWidth: 0
 Flags: MW
@@ -7207,7 +7205,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: uni02C9
-Encoding: 282 713 361
+Encoding: 426 713 361
 Width: 289
 VWidth: 0
 Flags: MW
@@ -7219,7 +7217,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: breve
-Encoding: 285 728 362
+Encoding: 427 728 362
 Width: 360
 VWidth: 0
 Flags: MW
@@ -7231,7 +7229,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: dotaccent
-Encoding: 286 729 363
+Encoding: 428 729 363
 Width: 197
 VWidth: 0
 Flags: MW
@@ -7243,7 +7241,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: ring
-Encoding: 287 730 364
+Encoding: 429 730 364
 Width: 261
 VWidth: 0
 Flags: HMW
@@ -7254,7 +7252,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: ogonek
-Encoding: 288 731 365
+Encoding: 430 731 365
 Width: 227
 VWidth: 0
 Flags: HMW
@@ -7265,7 +7263,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 290 733 366
+Encoding: 431 733 366
 Width: 323
 VWidth: 0
 Flags: MW
@@ -7277,7 +7275,7 @@ Colour: ff87c7
 EndChar
 
 StartChar: ft
-Encoding: 367 -1 367
+Encoding: 432 -1 367
 Width: 480
 VWidth: 0
 Flags: MW
@@ -7310,7 +7308,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" f t
 EndChar
 
 StartChar: tt
-Encoding: 368 -1 368
+Encoding: 433 -1 368
 Width: 520
 VWidth: 0
 Flags: MW
@@ -7338,7 +7336,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 0-1" t t
 EndChar
 
 StartChar: .notdef
-Encoding: 369 -1 369
+Encoding: 434 -1 369
 Width: 500
 VWidth: 0
 Flags: HMW
@@ -7359,7 +7357,7 @@ EndSplineSet
 EndChar
 
 StartChar: knA
-Encoding: 370 3205 370
+Encoding: 435 3205 370
 Width: 446
 Flags: MW
 LayerCount: 2
@@ -7403,7 +7401,7 @@ Validated: 33
 EndChar
 
 StartChar: knAA
-Encoding: 371 3206 371
+Encoding: 436 3206 371
 Width: 433
 Flags: MW
 LayerCount: 2
@@ -7448,7 +7446,7 @@ Validated: 33
 EndChar
 
 StartChar: knI
-Encoding: 372 3207 372
+Encoding: 437 3207 372
 Width: 476
 Flags: MW
 LayerCount: 2
@@ -7479,7 +7477,7 @@ Validated: 37
 EndChar
 
 StartChar: knII
-Encoding: 373 3208 373
+Encoding: 438 3208 373
 Width: 592
 Flags: MW
 LayerCount: 2
@@ -7523,7 +7521,7 @@ Validated: 37
 EndChar
 
 StartChar: knU
-Encoding: 374 3209 374
+Encoding: 439 3209 374
 Width: 586
 Flags: MW
 LayerCount: 2
@@ -7565,7 +7563,7 @@ Validated: 33
 EndChar
 
 StartChar: knUU
-Encoding: 375 3210 375
+Encoding: 440 3210 375
 Width: 760
 Flags: MW
 LayerCount: 2
@@ -7619,7 +7617,7 @@ Validated: 37
 EndChar
 
 StartChar: knvR
-Encoding: 376 3211 376
+Encoding: 441 3211 376
 Width: 649
 Flags: MW
 LayerCount: 2
@@ -7680,7 +7678,7 @@ Validated: 37
 EndChar
 
 StartChar: knvRR
-Encoding: 377 3296 377
+Encoding: 442 3296 377
 Width: 826
 Flags: MW
 LayerCount: 2
@@ -7748,7 +7746,7 @@ Validated: 37
 EndChar
 
 StartChar: knvL
-Encoding: 378 3212 378
+Encoding: 443 3212 378
 Width: 585
 Flags: MW
 LayerCount: 2
@@ -7781,7 +7779,7 @@ Validated: 33
 EndChar
 
 StartChar: knvLL
-Encoding: 379 3297 379
+Encoding: 444 3297 379
 Width: 750
 Flags: MW
 LayerCount: 2
@@ -7821,7 +7819,7 @@ Validated: 37
 EndChar
 
 StartChar: knE
-Encoding: 380 3214 380
+Encoding: 445 3214 380
 Width: 544
 Flags: MW
 LayerCount: 2
@@ -7848,7 +7846,7 @@ Validated: 33
 EndChar
 
 StartChar: knEE
-Encoding: 381 3215 381
+Encoding: 446 3215 381
 Width: 544
 Flags: MW
 LayerCount: 2
@@ -7882,7 +7880,7 @@ Validated: 37
 EndChar
 
 StartChar: knAI
-Encoding: 382 3216 382
+Encoding: 447 3216 382
 Width: 544
 Flags: MW
 LayerCount: 2
@@ -7914,7 +7912,7 @@ Validated: 33
 EndChar
 
 StartChar: knO
-Encoding: 383 3218 383
+Encoding: 448 3218 383
 Width: 486
 Flags: MW
 LayerCount: 2
@@ -7944,7 +7942,7 @@ Validated: 33
 EndChar
 
 StartChar: knOO
-Encoding: 384 3219 384
+Encoding: 449 3219 384
 Width: 487
 Flags: MW
 LayerCount: 2
@@ -7982,7 +7980,7 @@ Validated: 37
 EndChar
 
 StartChar: knAU
-Encoding: 385 3220 385
+Encoding: 450 3220 385
 Width: 544
 Flags: MW
 LayerCount: 2
@@ -8036,7 +8034,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignAA
-Encoding: 386 3262 386
+Encoding: 451 3262 386
 Width: 343
 Flags: MW
 LayerCount: 2
@@ -8063,7 +8061,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignI
-Encoding: 387 3263 387
+Encoding: 452 3263 387
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -8086,7 +8084,7 @@ Validated: 33
 EndChar
 
 StartChar: knsignII
-Encoding: 388 3264 388
+Encoding: 453 3264 388
 Width: 440
 Flags: MW
 LayerCount: 2
@@ -8128,7 +8126,7 @@ Validated: 41
 EndChar
 
 StartChar: knsignU
-Encoding: 389 3265 389
+Encoding: 454 3265 389
 Width: 205
 Flags: MW
 LayerCount: 2
@@ -8152,7 +8150,7 @@ Validated: 1
 EndChar
 
 StartChar: knsignUU
-Encoding: 390 3266 390
+Encoding: 455 3266 390
 Width: 442
 Flags: MW
 LayerCount: 2
@@ -8183,7 +8181,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignvR
-Encoding: 391 3267 391
+Encoding: 456 3267 391
 Width: 107
 GlyphClass: 4
 Flags: MW
@@ -8216,7 +8214,7 @@ Substitution2: "Ambarisha-Regular-Single Substitution lookup 9 subtable" knsignv
 EndChar
 
 StartChar: knsignvRR
-Encoding: 392 3268 392
+Encoding: 457 3268 392
 Width: 334
 GlyphClass: 4
 Flags: MW
@@ -8265,7 +8263,7 @@ Substitution2: "Ambarisha-Regular-Single Substitution lookup 9 subtable" knsignv
 EndChar
 
 StartChar: knsignvL
-Encoding: 393 3298 393
+Encoding: 458 3298 393
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -8297,7 +8295,7 @@ Validated: 33
 EndChar
 
 StartChar: knsignvLL
-Encoding: 394 3299 394
+Encoding: 459 3299 394
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -8337,7 +8335,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignE
-Encoding: 395 3270 395
+Encoding: 460 3270 395
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -8361,7 +8359,7 @@ Validated: 33
 EndChar
 
 StartChar: knsignEE
-Encoding: 396 3271 396
+Encoding: 461 3271 396
 Width: 294
 Flags: MW
 LayerCount: 2
@@ -8404,7 +8402,7 @@ Validated: 33
 EndChar
 
 StartChar: knsignAI
-Encoding: 397 3272 397
+Encoding: 462 3272 397
 Width: 125
 Flags: MW
 LayerCount: 2
@@ -8455,7 +8453,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignO
-Encoding: 398 3274 398
+Encoding: 463 3274 398
 Width: 438
 Flags: MW
 LayerCount: 2
@@ -8499,7 +8497,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignOO
-Encoding: 399 3275 399
+Encoding: 464 3275 399
 Width: 706
 Flags: MW
 LayerCount: 2
@@ -8562,7 +8560,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignAU
-Encoding: 400 3276 400
+Encoding: 465 3276 400
 Width: 246
 Flags: MW
 LayerCount: 2
@@ -8599,7 +8597,7 @@ Validated: 33
 EndChar
 
 StartChar: knLengthmark
-Encoding: 401 3285 401
+Encoding: 466 3285 401
 Width: 241
 Flags: MW
 LayerCount: 2
@@ -8625,7 +8623,7 @@ Validated: 33
 EndChar
 
 StartChar: knAIlengthmark
-Encoding: 402 3286 402
+Encoding: 467 3286 402
 Width: 136
 GlyphClass: 4
 Flags: MW
@@ -8665,7 +8663,7 @@ Substitution2: "Ambarisha-Regular-Single Substitution lookup 9 subtable" knAIlen
 EndChar
 
 StartChar: knKA
-Encoding: 403 3221 403
+Encoding: 468 3221 403
 Width: 454
 Flags: MW
 LayerCount: 2
@@ -8703,7 +8701,7 @@ Validated: 37
 EndChar
 
 StartChar: knKHA
-Encoding: 404 3222 404
+Encoding: 469 3222 404
 Width: 516
 Flags: MW
 LayerCount: 2
@@ -8748,7 +8746,7 @@ Validated: 37
 EndChar
 
 StartChar: knGA
-Encoding: 405 3223 405
+Encoding: 470 3223 405
 Width: 415
 Flags: MW
 LayerCount: 2
@@ -8777,7 +8775,7 @@ Validated: 37
 EndChar
 
 StartChar: knGHA
-Encoding: 406 3224 406
+Encoding: 471 3224 406
 Width: 574
 Flags: MW
 LayerCount: 2
@@ -8837,7 +8835,7 @@ Validated: 37
 EndChar
 
 StartChar: knNGA
-Encoding: 407 3225 407
+Encoding: 472 3225 407
 Width: 513
 Flags: MW
 LayerCount: 2
@@ -8879,7 +8877,7 @@ Validated: 37
 EndChar
 
 StartChar: knCA
-Encoding: 408 3226 408
+Encoding: 473 3226 408
 Width: 504
 Flags: MW
 LayerCount: 2
@@ -8929,7 +8927,7 @@ Validated: 37
 EndChar
 
 StartChar: knCHA
-Encoding: 409 3227 409
+Encoding: 474 3227 409
 Width: 528
 Flags: MW
 LayerCount: 2
@@ -8982,7 +8980,7 @@ Validated: 37
 EndChar
 
 StartChar: knJA
-Encoding: 410 3228 410
+Encoding: 475 3228 410
 Width: 522
 Flags: MW
 LayerCount: 2
@@ -9019,7 +9017,7 @@ Validated: 37
 EndChar
 
 StartChar: knJHA
-Encoding: 411 3229 411
+Encoding: 476 3229 411
 Width: 729
 Flags: MW
 LayerCount: 2
@@ -9083,7 +9081,7 @@ Validated: 37
 EndChar
 
 StartChar: knNYA
-Encoding: 412 3230 412
+Encoding: 477 3230 412
 Width: 600
 Flags: MW
 LayerCount: 2
@@ -9121,7 +9119,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTA
-Encoding: 413 3231 413
+Encoding: 478 3231 413
 Width: 484
 Flags: MW
 LayerCount: 2
@@ -9171,7 +9169,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTHA
-Encoding: 414 3232 414
+Encoding: 479 3232 414
 Width: 387
 Flags: MW
 LayerCount: 2
@@ -9204,7 +9202,7 @@ Validated: 37
 EndChar
 
 StartChar: knDDA
-Encoding: 415 3233 415
+Encoding: 480 3233 415
 Width: 572
 Flags: MW
 LayerCount: 2
@@ -9246,7 +9244,7 @@ Validated: 37
 EndChar
 
 StartChar: knDDHA
-Encoding: 416 3234 416
+Encoding: 481 3234 416
 Width: 572
 Flags: MW
 LayerCount: 2
@@ -9298,7 +9296,7 @@ Validated: 37
 EndChar
 
 StartChar: knNNA
-Encoding: 417 3235 417
+Encoding: 482 3235 417
 Width: 460
 Flags: MW
 LayerCount: 2
@@ -9338,7 +9336,7 @@ Validated: 33
 EndChar
 
 StartChar: knTA
-Encoding: 418 3236 418
+Encoding: 483 3236 418
 Width: 459
 Flags: MW
 LayerCount: 2
@@ -9374,7 +9372,7 @@ Validated: 37
 EndChar
 
 StartChar: knTHA
-Encoding: 419 3237 419
+Encoding: 484 3237 419
 Width: 491
 Flags: MW
 LayerCount: 2
@@ -9420,7 +9418,7 @@ Validated: 37
 EndChar
 
 StartChar: knDA
-Encoding: 420 3238 420
+Encoding: 485 3238 420
 Width: 491
 Flags: MW
 LayerCount: 2
@@ -9453,7 +9451,7 @@ Validated: 37
 EndChar
 
 StartChar: knDHA
-Encoding: 421 3239 421
+Encoding: 486 3239 421
 Width: 491
 Flags: MW
 LayerCount: 2
@@ -9494,7 +9492,7 @@ Validated: 37
 EndChar
 
 StartChar: knNA
-Encoding: 422 3240 422
+Encoding: 487 3240 422
 Width: 476
 Flags: MW
 LayerCount: 2
@@ -9525,7 +9523,7 @@ Validated: 37
 EndChar
 
 StartChar: knPA
-Encoding: 423 3242 423
+Encoding: 488 3242 423
 Width: 509
 Flags: MW
 LayerCount: 2
@@ -9568,7 +9566,7 @@ Validated: 37
 EndChar
 
 StartChar: knPHA
-Encoding: 424 3243 424
+Encoding: 489 3243 424
 Width: 509
 Flags: MW
 LayerCount: 2
@@ -9621,7 +9619,7 @@ Validated: 37
 EndChar
 
 StartChar: knBA
-Encoding: 425 3244 425
+Encoding: 490 3244 425
 Width: 470
 Flags: MW
 LayerCount: 2
@@ -9652,7 +9650,7 @@ Validated: 33
 EndChar
 
 StartChar: knBHA
-Encoding: 426 3245 426
+Encoding: 491 3245 426
 Width: 477
 Flags: MW
 LayerCount: 2
@@ -9697,7 +9695,7 @@ Validated: 37
 EndChar
 
 StartChar: knMA
-Encoding: 427 3246 427
+Encoding: 492 3246 427
 Width: 640
 Flags: MW
 LayerCount: 2
@@ -9747,7 +9745,7 @@ Validated: 37
 EndChar
 
 StartChar: knYA
-Encoding: 428 3247 428
+Encoding: 493 3247 428
 Width: 711
 Flags: MW
 LayerCount: 2
@@ -9793,7 +9791,7 @@ Validated: 37
 EndChar
 
 StartChar: knRA
-Encoding: 429 3248 429
+Encoding: 494 3248 429
 Width: 387
 Flags: MW
 LayerCount: 2
@@ -9821,7 +9819,7 @@ Validated: 37
 EndChar
 
 StartChar: knLA
-Encoding: 430 3250 430
+Encoding: 495 3250 430
 Width: 413
 Flags: MW
 LayerCount: 2
@@ -9855,7 +9853,7 @@ Validated: 33
 EndChar
 
 StartChar: knVA
-Encoding: 431 3253 431
+Encoding: 496 3253 431
 Width: 487
 Flags: MW
 LayerCount: 2
@@ -9894,7 +9892,7 @@ Validated: 5
 EndChar
 
 StartChar: knSHA
-Encoding: 432 3254 432
+Encoding: 497 3254 432
 Width: 465
 Flags: MW
 LayerCount: 2
@@ -9929,7 +9927,7 @@ Validated: 37
 EndChar
 
 StartChar: knSSA
-Encoding: 433 3255 433
+Encoding: 498 3255 433
 Width: 493
 Flags: MW
 LayerCount: 2
@@ -9977,7 +9975,7 @@ Validated: 37
 EndChar
 
 StartChar: knSA
-Encoding: 434 3256 434
+Encoding: 499 3256 434
 Width: 453
 Flags: MW
 LayerCount: 2
@@ -10013,7 +10011,7 @@ Validated: 37
 EndChar
 
 StartChar: knHA
-Encoding: 435 3257 435
+Encoding: 500 3257 435
 Width: 466
 Flags: MW
 LayerCount: 2
@@ -10058,7 +10056,7 @@ Validated: 37
 EndChar
 
 StartChar: knRRA
-Encoding: 436 3249 436
+Encoding: 501 3249 436
 Width: 470
 Flags: MW
 LayerCount: 2
@@ -10111,7 +10109,7 @@ Validated: 37
 EndChar
 
 StartChar: knLLA
-Encoding: 437 3251 437
+Encoding: 502 3251 437
 Width: 411
 Flags: MW
 LayerCount: 2
@@ -10160,7 +10158,7 @@ Validated: 37
 EndChar
 
 StartChar: knLLLA
-Encoding: 438 3294 438
+Encoding: 503 3294 438
 Width: 470
 Flags: MW
 LayerCount: 2
@@ -10204,7 +10202,7 @@ Validated: 33
 EndChar
 
 StartChar: knAnusvara
-Encoding: 439 3202 439
+Encoding: 504 3202 439
 Width: 362
 Flags: MW
 LayerCount: 2
@@ -10225,7 +10223,7 @@ Validated: 1
 EndChar
 
 StartChar: knCandrabindu
-Encoding: 440 3201 440
+Encoding: 505 3201 440
 Width: 1
 GlyphClass: 4
 Flags: MW
@@ -10254,7 +10252,7 @@ Validated: 1
 EndChar
 
 StartChar: knVisarga
-Encoding: 441 3203 441
+Encoding: 506 3203 441
 Width: 249
 Flags: MW
 LayerCount: 2
@@ -10285,7 +10283,7 @@ Validated: 1
 EndChar
 
 StartChar: knVirama
-Encoding: 442 3277 442
+Encoding: 507 3277 442
 Width: 223
 Flags: MW
 LayerCount: 2
@@ -10314,7 +10312,7 @@ Validated: 37
 EndChar
 
 StartChar: knNukta
-Encoding: 443 3260 443
+Encoding: 508 3260 443
 Width: 574
 GlyphClass: 4
 Flags: MW
@@ -10346,7 +10344,7 @@ Validated: 1
 EndChar
 
 StartChar: knZero
-Encoding: 444 3302 444
+Encoding: 509 3302 444
 Width: 362
 Flags: MW
 LayerCount: 2
@@ -10367,7 +10365,7 @@ Validated: 1
 EndChar
 
 StartChar: knOne
-Encoding: 445 3303 445
+Encoding: 510 3303 445
 Width: 415
 Flags: MW
 LayerCount: 2
@@ -10389,7 +10387,7 @@ Validated: 33
 EndChar
 
 StartChar: knTwo
-Encoding: 446 3304 446
+Encoding: 511 3304 446
 Width: 391
 Flags: MW
 LayerCount: 2
@@ -10411,7 +10409,7 @@ Validated: 37
 EndChar
 
 StartChar: knThree
-Encoding: 447 3305 447
+Encoding: 512 3305 447
 Width: 500
 Flags: MW
 LayerCount: 2
@@ -10450,7 +10448,7 @@ Validated: 37
 EndChar
 
 StartChar: knFour
-Encoding: 448 3306 448
+Encoding: 513 3306 448
 Width: 461
 Flags: MW
 LayerCount: 2
@@ -10489,7 +10487,7 @@ Validated: 37
 EndChar
 
 StartChar: knFive
-Encoding: 449 3307 449
+Encoding: 514 3307 449
 Width: 577
 Flags: MW
 LayerCount: 2
@@ -10541,7 +10539,7 @@ Validated: 37
 EndChar
 
 StartChar: knSix
-Encoding: 450 3308 450
+Encoding: 515 3308 450
 Width: 389
 Flags: MW
 LayerCount: 2
@@ -10570,7 +10568,7 @@ Validated: 33
 EndChar
 
 StartChar: knSeven
-Encoding: 451 3309 451
+Encoding: 516 3309 451
 Width: 467
 Flags: MW
 LayerCount: 2
@@ -10596,7 +10594,7 @@ Validated: 1
 EndChar
 
 StartChar: knEight
-Encoding: 452 3310 452
+Encoding: 517 3310 452
 Width: 421
 Flags: MW
 LayerCount: 2
@@ -10630,7 +10628,7 @@ Validated: 33
 EndChar
 
 StartChar: knNine
-Encoding: 453 3311 453
+Encoding: 518 3311 453
 Width: 416
 Flags: MW
 LayerCount: 2
@@ -10661,7 +10659,7 @@ Validated: 33
 EndChar
 
 StartChar: indianrupee
-Encoding: 454 8377 454
+Encoding: 519 8377 454
 Width: 414
 Flags: MW
 LayerCount: 2
@@ -10694,7 +10692,7 @@ Validated: 5
 EndChar
 
 StartChar: zerowidthnonjoiner
-Encoding: 455 8204 455
+Encoding: 520 8204 455
 Width: 0
 Flags: HMW
 LayerCount: 2
@@ -10710,7 +10708,7 @@ Validated: 1
 EndChar
 
 StartChar: zerowidthjoiner
-Encoding: 456 8205 456
+Encoding: 521 8205 456
 Width: 0
 Flags: HMW
 LayerCount: 2
@@ -10737,7 +10735,7 @@ Validated: 1
 EndChar
 
 StartChar: dottedcircle
-Encoding: 457 9676 457
+Encoding: 522 9676 457
 Width: 660
 Flags: MW
 LayerCount: 2
@@ -10808,7 +10806,7 @@ Validated: 33
 EndChar
 
 StartChar: knReph
-Encoding: 458 -1 458
+Encoding: 523 -1 458
 Width: 361
 Flags: MW
 LayerCount: 2
@@ -10841,7 +10839,7 @@ Ligature2: "Ambarisha-Regular-'rphf' Reph Form lookup 0 subtable" knRA knVirama
 EndChar
 
 StartChar: knKAc2
-Encoding: 459 -1 459
+Encoding: 524 -1 459
 Width: 190
 GlyphClass: 4
 Flags: HMW
@@ -10906,7 +10904,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knKHAc2
-Encoding: 460 -1 460
+Encoding: 525 -1 460
 Width: 97
 GlyphClass: 4
 Flags: HMW
@@ -11003,7 +11001,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knGAc2
-Encoding: 461 -1 461
+Encoding: 526 -1 461
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11045,7 +11043,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knGHAc2
-Encoding: 462 -1 462
+Encoding: 527 -1 462
 Width: 137
 GlyphClass: 4
 Flags: HMW
@@ -11134,7 +11132,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knNGAc2
-Encoding: 463 -1 463
+Encoding: 528 -1 463
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11226,7 +11224,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knCAc2
-Encoding: 464 -1 464
+Encoding: 529 -1 464
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11323,7 +11321,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knCHAc2
-Encoding: 465 -1 465
+Encoding: 530 -1 465
 Width: 67
 GlyphClass: 4
 Flags: HMW
@@ -11434,7 +11432,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knJAc2
-Encoding: 466 -1 466
+Encoding: 531 -1 466
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11521,7 +11519,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knJHAc2
-Encoding: 467 -1 467
+Encoding: 532 -1 467
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11624,7 +11622,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knNYAc2
-Encoding: 468 -1 468
+Encoding: 533 -1 468
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11719,7 +11717,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knTTAc2
-Encoding: 469 -1 469
+Encoding: 534 -1 469
 Width: 104
 GlyphClass: 4
 Flags: HMW
@@ -11827,7 +11825,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knTTHAc2
-Encoding: 470 -1 470
+Encoding: 535 -1 470
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11876,7 +11874,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knDDAc2
-Encoding: 471 -1 471
+Encoding: 536 -1 471
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -11950,7 +11948,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knDDHAc2
-Encoding: 472 -1 472
+Encoding: 537 -1 472
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12037,7 +12035,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knNNAc2
-Encoding: 473 -1 473
+Encoding: 538 -1 473
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12115,7 +12113,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knTAc2
-Encoding: 474 -1 474
+Encoding: 539 -1 474
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12162,7 +12160,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knTHAc2
-Encoding: 475 -1 475
+Encoding: 540 -1 475
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12236,7 +12234,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knDAc2
-Encoding: 476 -1 476
+Encoding: 541 -1 476
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12287,7 +12285,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knDHAc2
-Encoding: 477 -1 477
+Encoding: 542 -1 477
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12352,7 +12350,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knNAc2
-Encoding: 478 -1 478
+Encoding: 543 -1 478
 Width: 129
 GlyphClass: 4
 Flags: HMW
@@ -12418,7 +12416,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knPAc2
-Encoding: 479 -1 479
+Encoding: 544 -1 479
 Width: 107
 GlyphClass: 4
 Flags: HMW
@@ -12477,7 +12475,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knPHAc2
-Encoding: 480 -1 480
+Encoding: 545 -1 480
 Width: 107
 GlyphClass: 4
 Flags: HMW
@@ -12550,7 +12548,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knBAc2
-Encoding: 481 -1 481
+Encoding: 546 -1 481
 Width: 92
 GlyphClass: 4
 Flags: HMW
@@ -12627,7 +12625,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knBHAc2
-Encoding: 482 -1 482
+Encoding: 547 -1 482
 Width: 92
 GlyphClass: 4
 Flags: HMW
@@ -12717,7 +12715,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knMAc2
-Encoding: 483 -1 483
+Encoding: 548 -1 483
 Width: 118
 GlyphClass: 4
 Flags: HMW
@@ -12780,7 +12778,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knYAc2
-Encoding: 484 -1 484
+Encoding: 549 -1 484
 Width: 145
 GlyphClass: 4
 Flags: HMW
@@ -12838,7 +12836,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knRAc2
-Encoding: 485 -1 485
+Encoding: 550 -1 485
 Width: 125
 GlyphClass: 4
 Flags: HMW
@@ -12879,7 +12877,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knLAc2
-Encoding: 486 -1 486
+Encoding: 551 -1 486
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -12940,7 +12938,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knVAc2
-Encoding: 487 -1 487
+Encoding: 552 -1 487
 Width: 52
 GlyphClass: 4
 Flags: HMW
@@ -13018,7 +13016,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knSHAc2
-Encoding: 488 -1 488
+Encoding: 553 -1 488
 Width: 22
 GlyphClass: 4
 Flags: HMW
@@ -13072,7 +13070,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knSSAc2
-Encoding: 489 -1 489
+Encoding: 554 -1 489
 Width: 78
 GlyphClass: 4
 Flags: HMW
@@ -13150,7 +13148,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knSAc2
-Encoding: 490 -1 490
+Encoding: 555 -1 490
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13204,7 +13202,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knHAc2
-Encoding: 491 -1 491
+Encoding: 556 -1 491
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13280,7 +13278,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knRRAc2
-Encoding: 492 -1 492
+Encoding: 557 -1 492
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13385,7 +13383,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knLLAc2
-Encoding: 493 -1 493
+Encoding: 558 -1 493
 Width: 26
 GlyphClass: 4
 Flags: HMW
@@ -13473,7 +13471,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knLLLAc2
-Encoding: 494 -1 494
+Encoding: 559 -1 494
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -13576,7 +13574,7 @@ Ligature2: "Ambarisha-Regular-'blwf' Below Base Forms in Kannada2 lookup 1 subta
 EndChar
 
 StartChar: knKSSAc2
-Encoding: 495 -1 495
+Encoding: 560 -1 495
 Width: 3
 GlyphClass: 4
 Flags: HMW
@@ -13699,7 +13697,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 5 subtable" k
 EndChar
 
 StartChar: knTAc2_RAc2
-Encoding: 496 -1 496
+Encoding: 561 -1 496
 Width: 115
 GlyphClass: 4
 Flags: HMW
@@ -13769,7 +13767,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 5 subtable" k
 EndChar
 
 StartChar: knKAA
-Encoding: 497 -1 497
+Encoding: 562 -1 497
 Width: 616
 Flags: HMW
 LayerCount: 2
@@ -13875,7 +13873,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHAA
-Encoding: 498 -1 498
+Encoding: 563 -1 498
 Width: 746
 Flags: HMW
 LayerCount: 2
@@ -14024,7 +14022,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGAA
-Encoding: 499 -1 499
+Encoding: 564 -1 499
 Width: 610
 Flags: HMW
 LayerCount: 2
@@ -14106,7 +14104,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHAA
-Encoding: 500 -1 500
+Encoding: 565 -1 500
 Width: 747
 Flags: HMW
 LayerCount: 2
@@ -14262,7 +14260,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGAA
-Encoding: 501 -1 501
+Encoding: 566 -1 501
 Width: 715
 Flags: HMW
 LayerCount: 2
@@ -14404,7 +14402,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCAA
-Encoding: 502 -1 502
+Encoding: 567 -1 502
 Width: 713
 Flags: HMW
 LayerCount: 2
@@ -14535,7 +14533,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHAA
-Encoding: 503 -1 503
+Encoding: 568 -1 503
 Width: 715
 Flags: HMW
 LayerCount: 2
@@ -14685,7 +14683,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJAA
-Encoding: 504 -1 504
+Encoding: 569 -1 504
 Width: 702
 Flags: HMW
 LayerCount: 2
@@ -14822,7 +14820,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHAA
-Encoding: 505 -1 505
+Encoding: 570 -1 505
 Width: 955
 Flags: HMW
 LayerCount: 2
@@ -14996,7 +14994,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYAA
-Encoding: 506 -1 506
+Encoding: 571 -1 506
 Width: 770
 Flags: HMW
 LayerCount: 2
@@ -15140,7 +15138,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTAA
-Encoding: 507 -1 507
+Encoding: 572 -1 507
 Width: 723
 Flags: HMW
 LayerCount: 2
@@ -15300,7 +15298,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHAA
-Encoding: 508 -1 508
+Encoding: 573 -1 508
 Width: 592
 Flags: HMW
 LayerCount: 2
@@ -15403,7 +15401,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDAA
-Encoding: 509 -1 509
+Encoding: 574 -1 509
 Width: 760
 Flags: HMW
 LayerCount: 2
@@ -15532,7 +15530,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHAA
-Encoding: 510 -1 510
+Encoding: 575 -1 510
 Width: 760
 Flags: HMW
 LayerCount: 2
@@ -15674,7 +15672,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNAA
-Encoding: 511 -1 511
+Encoding: 576 -1 511
 Width: 681
 Flags: HMW
 LayerCount: 2
@@ -15817,7 +15815,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTAA
-Encoding: 512 -1 512
+Encoding: 577 -1 512
 Width: 644
 Flags: HMW
 LayerCount: 2
@@ -15919,7 +15917,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHAA
-Encoding: 513 -1 513
+Encoding: 578 -1 513
 Width: 712
 Flags: HMW
 LayerCount: 2
@@ -16061,7 +16059,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDAA
-Encoding: 514 -1 514
+Encoding: 579 -1 514
 Width: 712
 Flags: HMW
 LayerCount: 2
@@ -16172,7 +16170,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHAA
-Encoding: 515 -1 515
+Encoding: 580 -1 515
 Width: 712
 Flags: HMW
 LayerCount: 2
@@ -16297,7 +16295,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNAA
-Encoding: 516 -1 516
+Encoding: 581 -1 516
 Width: 697
 Flags: HMW
 LayerCount: 2
@@ -16403,7 +16401,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPAA
-Encoding: 517 -1 517
+Encoding: 582 -1 517
 Width: 727
 Flags: HMW
 LayerCount: 2
@@ -16529,7 +16527,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHAA
-Encoding: 518 -1 518
+Encoding: 583 -1 518
 Width: 727
 Flags: HMW
 LayerCount: 2
@@ -16669,7 +16667,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBAA
-Encoding: 519 -1 519
+Encoding: 584 -1 519
 Width: 713
 Flags: HMW
 LayerCount: 2
@@ -16798,7 +16796,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHAA
-Encoding: 520 -1 520
+Encoding: 585 -1 520
 Width: 713
 Flags: HMW
 LayerCount: 2
@@ -16941,7 +16939,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMAA
-Encoding: 521 -1 521
+Encoding: 586 -1 521
 Width: 916
 Flags: HMW
 LayerCount: 2
@@ -17100,7 +17098,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYAA
-Encoding: 522 -1 522
+Encoding: 587 -1 522
 Width: 966
 Flags: HMW
 LayerCount: 2
@@ -17256,7 +17254,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRAA
-Encoding: 523 -1 523
+Encoding: 588 -1 523
 Width: 592
 Flags: HMW
 LayerCount: 2
@@ -17350,7 +17348,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLAA
-Encoding: 524 -1 524
+Encoding: 589 -1 524
 Width: 618
 Flags: HMW
 LayerCount: 2
@@ -17468,7 +17466,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVAA
-Encoding: 525 -1 525
+Encoding: 590 -1 525
 Width: 696
 Flags: HMW
 LayerCount: 2
@@ -17583,7 +17581,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHAA
-Encoding: 526 -1 526
+Encoding: 591 -1 526
 Width: 690
 Flags: HMW
 LayerCount: 2
@@ -17693,7 +17691,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSAA
-Encoding: 527 -1 527
+Encoding: 592 -1 527
 Width: 742
 Flags: HMW
 LayerCount: 2
@@ -17824,7 +17822,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSAA
-Encoding: 528 -1 528
+Encoding: 593 -1 528
 Width: 693
 Flags: HMW
 LayerCount: 2
@@ -17936,7 +17934,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHAA
-Encoding: 529 -1 529
+Encoding: 594 -1 529
 Width: 640
 Flags: HMW
 LayerCount: 2
@@ -18067,7 +18065,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRAA
-Encoding: 530 -1 530
+Encoding: 595 -1 530
 Width: 691
 Flags: HMW
 LayerCount: 2
@@ -18220,7 +18218,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLAA
-Encoding: 531 -1 531
+Encoding: 596 -1 531
 Width: 565
 Flags: HMW
 LayerCount: 2
@@ -18345,7 +18343,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLAA
-Encoding: 532 -1 532
+Encoding: 597 -1 532
 Width: 691
 Flags: HMW
 LayerCount: 2
@@ -18486,7 +18484,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKI
-Encoding: 533 -1 533
+Encoding: 598 -1 533
 Width: 407
 Flags: HMW
 LayerCount: 2
@@ -18576,7 +18574,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHI
-Encoding: 534 -1 534
+Encoding: 599 -1 534
 Width: 527
 Flags: HMW
 LayerCount: 2
@@ -18701,7 +18699,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGI
-Encoding: 535 -1 535
+Encoding: 600 -1 535
 Width: 389
 Flags: HMW
 LayerCount: 2
@@ -18772,7 +18770,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHI
-Encoding: 536 -1 536
+Encoding: 601 -1 536
 Width: 579
 Flags: HMW
 LayerCount: 2
@@ -18901,7 +18899,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGI
-Encoding: 537 -1 537
+Encoding: 602 -1 537
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -19034,7 +19032,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCI
-Encoding: 538 -1 538
+Encoding: 603 -1 538
 Width: 491
 Flags: HMW
 LayerCount: 2
@@ -19151,7 +19149,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHI
-Encoding: 539 -1 539
+Encoding: 604 -1 539
 Width: 506
 Flags: HMW
 LayerCount: 2
@@ -19279,7 +19277,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJI
-Encoding: 540 -1 540
+Encoding: 605 -1 540
 Width: 494
 Flags: HMW
 LayerCount: 2
@@ -19395,7 +19393,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHI
-Encoding: 541 -1 541
+Encoding: 606 -1 541
 Width: 697
 Flags: HMW
 LayerCount: 2
@@ -19532,7 +19530,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYI
-Encoding: 542 -1 542
+Encoding: 607 -1 542
 Width: 778
 Flags: HMW
 LayerCount: 2
@@ -19666,7 +19664,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTI
-Encoding: 543 -1 543
+Encoding: 608 -1 543
 Width: 484
 Flags: HMW
 LayerCount: 2
@@ -19802,7 +19800,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHI
-Encoding: 544 -1 544
+Encoding: 609 -1 544
 Width: 374
 Flags: HMW
 LayerCount: 2
@@ -19890,7 +19888,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDI
-Encoding: 545 -1 545
+Encoding: 610 -1 545
 Width: 569
 Flags: HMW
 LayerCount: 2
@@ -19992,7 +19990,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHI
-Encoding: 546 -1 546
+Encoding: 611 -1 546
 Width: 569
 Flags: HMW
 LayerCount: 2
@@ -20109,7 +20107,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNI
-Encoding: 547 -1 547
+Encoding: 612 -1 547
 Width: 465
 Flags: HMW
 LayerCount: 2
@@ -20236,7 +20234,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTI
-Encoding: 548 -1 548
+Encoding: 613 -1 548
 Width: 417
 Flags: HMW
 LayerCount: 2
@@ -20320,7 +20318,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHI
-Encoding: 549 -1 549
+Encoding: 614 -1 549
 Width: 490
 Flags: HMW
 LayerCount: 2
@@ -20438,7 +20436,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDI
-Encoding: 550 -1 550
+Encoding: 615 -1 550
 Width: 490
 Flags: HMW
 LayerCount: 2
@@ -20524,7 +20522,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHI
-Encoding: 551 -1 551
+Encoding: 616 -1 551
 Width: 490
 Flags: HMW
 LayerCount: 2
@@ -20625,7 +20623,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNI
-Encoding: 552 -1 552
+Encoding: 617 -1 552
 Width: 471
 Flags: HMW
 LayerCount: 2
@@ -20702,7 +20700,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPI
-Encoding: 553 -1 553
+Encoding: 618 -1 553
 Width: 492
 Flags: HMW
 LayerCount: 2
@@ -20798,7 +20796,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHI
-Encoding: 554 -1 554
+Encoding: 619 -1 554
 Width: 492
 Flags: HMW
 LayerCount: 2
@@ -20909,7 +20907,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBI
-Encoding: 555 -1 555
+Encoding: 620 -1 555
 Width: 516
 Flags: HMW
 LayerCount: 2
@@ -21020,7 +21018,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHI
-Encoding: 556 -1 556
+Encoding: 621 -1 556
 Width: 513
 Flags: HMW
 LayerCount: 2
@@ -21145,7 +21143,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMI
-Encoding: 557 -1 557
+Encoding: 622 -1 557
 Width: 684
 Flags: HMW
 LayerCount: 2
@@ -21259,7 +21257,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYI
-Encoding: 558 -1 558
+Encoding: 623 -1 558
 Width: 729
 Flags: HMW
 LayerCount: 2
@@ -21382,7 +21380,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRI
-Encoding: 559 -1 559
+Encoding: 624 -1 559
 Width: 374
 Flags: HMW
 LayerCount: 2
@@ -21453,7 +21451,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLI
-Encoding: 560 -1 560
+Encoding: 625 -1 560
 Width: 410
 Flags: HMW
 LayerCount: 2
@@ -21548,7 +21546,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVI
-Encoding: 561 -1 561
+Encoding: 626 -1 561
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -21636,7 +21634,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHI
-Encoding: 562 -1 562
+Encoding: 627 -1 562
 Width: 396
 Flags: HMW
 LayerCount: 2
@@ -21729,7 +21727,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSI
-Encoding: 563 -1 563
+Encoding: 628 -1 563
 Width: 496
 Flags: HMW
 LayerCount: 2
@@ -21831,7 +21829,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSI
-Encoding: 564 -1 564
+Encoding: 629 -1 564
 Width: 457
 Flags: HMW
 LayerCount: 2
@@ -21915,7 +21913,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHI
-Encoding: 565 -1 565
+Encoding: 630 -1 565
 Width: 471
 Flags: HMW
 LayerCount: 2
@@ -22018,7 +22016,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRI
-Encoding: 566 -1 566
+Encoding: 631 -1 566
 Width: 468
 Flags: HMW
 LayerCount: 2
@@ -22165,7 +22163,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLI
-Encoding: 567 -1 567
+Encoding: 632 -1 567
 Width: 370
 Flags: HMW
 LayerCount: 2
@@ -22269,7 +22267,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLI
-Encoding: 568 -1 568
+Encoding: 633 -1 568
 Width: 467
 Flags: HMW
 LayerCount: 2
@@ -22402,7 +22400,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKU
-Encoding: 569 -1 569
+Encoding: 634 -1 569
 Width: 600
 Flags: HMW
 LayerCount: 2
@@ -22508,7 +22506,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHU
-Encoding: 570 -1 570
+Encoding: 635 -1 570
 Width: 672
 Flags: HMW
 LayerCount: 2
@@ -22637,7 +22635,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGU
-Encoding: 571 -1 571
+Encoding: 636 -1 571
 Width: 573
 Flags: HMW
 LayerCount: 2
@@ -22723,7 +22721,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHU
-Encoding: 572 -1 572
+Encoding: 637 -1 572
 Width: 686
 Flags: HMW
 LayerCount: 2
@@ -22883,7 +22881,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGU
-Encoding: 573 -1 573
+Encoding: 638 -1 573
 Width: 684
 Flags: HMW
 LayerCount: 2
@@ -23007,7 +23005,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCU
-Encoding: 574 -1 574
+Encoding: 639 -1 574
 Width: 664
 Flags: HMW
 LayerCount: 2
@@ -23140,7 +23138,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHU
-Encoding: 575 -1 575
+Encoding: 640 -1 575
 Width: 680
 Flags: HMW
 LayerCount: 2
@@ -23288,7 +23286,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJU
-Encoding: 576 -1 576
+Encoding: 641 -1 576
 Width: 686
 Flags: HMW
 LayerCount: 2
@@ -23405,7 +23403,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHU
-Encoding: 577 -1 577
+Encoding: 642 -1 577
 Width: 873
 Flags: HMW
 LayerCount: 2
@@ -23561,7 +23559,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYU
-Encoding: 578 -1 578
+Encoding: 643 -1 578
 Width: 809
 Flags: HMW
 LayerCount: 2
@@ -23697,7 +23695,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTU
-Encoding: 579 -1 579
+Encoding: 644 -1 579
 Width: 686
 Flags: HMW
 LayerCount: 2
@@ -23839,7 +23837,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHU
-Encoding: 580 -1 580
+Encoding: 645 -1 580
 Width: 541
 Flags: HMW
 LayerCount: 2
@@ -23946,7 +23944,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDU
-Encoding: 581 -1 581
+Encoding: 646 -1 581
 Width: 710
 Flags: HMW
 LayerCount: 2
@@ -24073,7 +24071,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHU
-Encoding: 582 -1 582
+Encoding: 647 -1 582
 Width: 710
 Flags: HMW
 LayerCount: 2
@@ -24214,7 +24212,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNU
-Encoding: 583 -1 583
+Encoding: 648 -1 583
 Width: 629
 Flags: HMW
 LayerCount: 2
@@ -24334,7 +24332,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTU
-Encoding: 584 -1 584
+Encoding: 649 -1 584
 Width: 589
 Flags: HMW
 LayerCount: 2
@@ -24434,7 +24432,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHU
-Encoding: 585 -1 585
+Encoding: 650 -1 585
 Width: 659
 Flags: HMW
 LayerCount: 2
@@ -24574,7 +24572,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDU
-Encoding: 586 -1 586
+Encoding: 651 -1 586
 Width: 659
 Flags: HMW
 LayerCount: 2
@@ -24683,7 +24681,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHU
-Encoding: 587 -1 587
+Encoding: 652 -1 587
 Width: 659
 Flags: HMW
 LayerCount: 2
@@ -24806,7 +24804,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNU
-Encoding: 588 -1 588
+Encoding: 653 -1 588
 Width: 650
 Flags: HMW
 LayerCount: 2
@@ -24910,7 +24908,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPU
-Encoding: 589 -1 589
+Encoding: 654 -1 589
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -25044,7 +25042,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHU
-Encoding: 590 -1 590
+Encoding: 655 -1 590
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -25192,7 +25190,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBU
-Encoding: 591 -1 591
+Encoding: 656 -1 591
 Width: 642
 Flags: HMW
 LayerCount: 2
@@ -25304,7 +25302,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHU
-Encoding: 592 -1 592
+Encoding: 657 -1 592
 Width: 641
 Flags: HMW
 LayerCount: 2
@@ -25443,7 +25441,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMU
-Encoding: 593 -1 593
+Encoding: 658 -1 593
 Width: 816
 Flags: HMW
 LayerCount: 2
@@ -25584,7 +25582,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYU
-Encoding: 594 -1 594
+Encoding: 659 -1 594
 Width: 893
 Flags: HMW
 LayerCount: 2
@@ -25722,7 +25720,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRU
-Encoding: 595 -1 595
+Encoding: 660 -1 595
 Width: 541
 Flags: HMW
 LayerCount: 2
@@ -25812,7 +25810,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLU
-Encoding: 596 -1 596
+Encoding: 661 -1 596
 Width: 559
 Flags: HMW
 LayerCount: 2
@@ -25912,7 +25910,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVU
-Encoding: 597 -1 597
+Encoding: 662 -1 597
 Width: 646
 Flags: HMW
 LayerCount: 2
@@ -26033,7 +26031,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHU
-Encoding: 598 -1 598
+Encoding: 663 -1 598
 Width: 625
 Flags: HMW
 LayerCount: 2
@@ -26141,7 +26139,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSU
-Encoding: 599 -1 599
+Encoding: 664 -1 599
 Width: 671
 Flags: HMW
 LayerCount: 2
@@ -26272,7 +26270,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSU
-Encoding: 600 -1 600
+Encoding: 665 -1 600
 Width: 639
 Flags: HMW
 LayerCount: 2
@@ -26384,7 +26382,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHU
-Encoding: 601 -1 601
+Encoding: 666 -1 601
 Width: 665
 Flags: HMW
 LayerCount: 2
@@ -26511,7 +26509,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRU
-Encoding: 602 -1 602
+Encoding: 667 -1 602
 Width: 634
 Flags: HMW
 LayerCount: 2
@@ -26647,7 +26645,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLU
-Encoding: 603 -1 603
+Encoding: 668 -1 603
 Width: 522
 Flags: HMW
 LayerCount: 2
@@ -26776,7 +26774,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLU
-Encoding: 604 -1 604
+Encoding: 669 -1 604
 Width: 634
 Flags: HMW
 LayerCount: 2
@@ -26900,7 +26898,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKUU
-Encoding: 605 -1 605
+Encoding: 670 -1 605
 Width: 777
 Flags: HMW
 LayerCount: 2
@@ -27036,7 +27034,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHUU
-Encoding: 606 -1 606
+Encoding: 671 -1 606
 Width: 854
 Flags: HMW
 LayerCount: 2
@@ -27196,7 +27194,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGUU
-Encoding: 607 -1 607
+Encoding: 672 -1 607
 Width: 803
 Flags: HMW
 LayerCount: 2
@@ -27312,7 +27310,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHUU
-Encoding: 608 -1 608
+Encoding: 673 -1 608
 Width: 887
 Flags: HMW
 LayerCount: 2
@@ -27500,7 +27498,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGUU
-Encoding: 609 -1 609
+Encoding: 674 -1 609
 Width: 918
 Flags: HMW
 LayerCount: 2
@@ -27654,7 +27652,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCUU
-Encoding: 610 -1 610
+Encoding: 675 -1 610
 Width: 842
 Flags: HMW
 LayerCount: 2
@@ -27819,7 +27817,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHUU
-Encoding: 611 -1 611
+Encoding: 676 -1 611
 Width: 877
 Flags: HMW
 LayerCount: 2
@@ -27997,7 +27995,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJUU
-Encoding: 612 -1 612
+Encoding: 677 -1 612
 Width: 902
 Flags: HMW
 LayerCount: 2
@@ -28144,7 +28142,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHUU
-Encoding: 613 -1 613
+Encoding: 678 -1 613
 Width: 1067
 Flags: HMW
 LayerCount: 2
@@ -28330,7 +28328,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYUU
-Encoding: 614 -1 614
+Encoding: 679 -1 614
 Width: 1000
 Flags: HMW
 LayerCount: 2
@@ -28498,7 +28496,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTUU
-Encoding: 615 -1 615
+Encoding: 680 -1 615
 Width: 891
 Flags: HMW
 LayerCount: 2
@@ -28670,7 +28668,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHUU
-Encoding: 616 -1 616
+Encoding: 681 -1 616
 Width: 755
 Flags: HMW
 LayerCount: 2
@@ -28807,7 +28805,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDUU
-Encoding: 617 -1 617
+Encoding: 682 -1 617
 Width: 927
 Flags: HMW
 LayerCount: 2
@@ -28964,7 +28962,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHUU
-Encoding: 618 -1 618
+Encoding: 683 -1 618
 Width: 927
 Flags: HMW
 LayerCount: 2
@@ -29136,7 +29134,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNUU
-Encoding: 619 -1 619
+Encoding: 684 -1 619
 Width: 816
 Flags: HMW
 LayerCount: 2
@@ -29288,7 +29286,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTUU
-Encoding: 620 -1 620
+Encoding: 685 -1 620
 Width: 814
 Flags: HMW
 LayerCount: 2
@@ -29418,7 +29416,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHUU
-Encoding: 621 -1 621
+Encoding: 686 -1 621
 Width: 881
 Flags: HMW
 LayerCount: 2
@@ -29589,7 +29587,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDUU
-Encoding: 622 -1 622
+Encoding: 687 -1 622
 Width: 881
 Flags: HMW
 LayerCount: 2
@@ -29728,7 +29726,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHUU
-Encoding: 623 -1 623
+Encoding: 688 -1 623
 Width: 881
 Flags: HMW
 LayerCount: 2
@@ -29882,7 +29880,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNUU
-Encoding: 624 -1 624
+Encoding: 689 -1 624
 Width: 859
 Flags: HMW
 LayerCount: 2
@@ -30016,7 +30014,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPUU
-Encoding: 625 -1 625
+Encoding: 690 -1 625
 Width: 863
 Flags: HMW
 LayerCount: 2
@@ -30176,7 +30174,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHUU
-Encoding: 626 -1 626
+Encoding: 691 -1 626
 Width: 863
 Flags: HMW
 LayerCount: 2
@@ -30350,7 +30348,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBUU
-Encoding: 627 -1 627
+Encoding: 692 -1 627
 Width: 848
 Flags: HMW
 LayerCount: 2
@@ -30492,7 +30490,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHUU
-Encoding: 628 -1 628
+Encoding: 693 -1 628
 Width: 853
 Flags: HMW
 LayerCount: 2
@@ -30661,7 +30659,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMUU
-Encoding: 629 -1 629
+Encoding: 694 -1 629
 Width: 1032
 Flags: HMW
 LayerCount: 2
@@ -30832,7 +30830,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYUU
-Encoding: 630 -1 630
+Encoding: 695 -1 630
 Width: 1099
 Flags: HMW
 LayerCount: 2
@@ -31000,7 +30998,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRUU
-Encoding: 631 -1 631
+Encoding: 696 -1 631
 Width: 744
 Flags: HMW
 LayerCount: 2
@@ -31120,7 +31118,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLUU
-Encoding: 632 -1 632
+Encoding: 697 -1 632
 Width: 779
 Flags: HMW
 LayerCount: 2
@@ -31250,7 +31248,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVUU
-Encoding: 633 -1 633
+Encoding: 698 -1 633
 Width: 854
 Flags: HMW
 LayerCount: 2
@@ -31397,7 +31395,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHUU
-Encoding: 634 -1 634
+Encoding: 699 -1 634
 Width: 830
 Flags: HMW
 LayerCount: 2
@@ -31536,7 +31534,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSUU
-Encoding: 635 -1 635
+Encoding: 700 -1 635
 Width: 886
 Flags: HMW
 LayerCount: 2
@@ -31697,7 +31695,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSUU
-Encoding: 636 -1 636
+Encoding: 701 -1 636
 Width: 824
 Flags: HMW
 LayerCount: 2
@@ -31839,7 +31837,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHUU
-Encoding: 637 -1 637
+Encoding: 702 -1 637
 Width: 830
 Flags: HMW
 LayerCount: 2
@@ -32000,7 +31998,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRUU
-Encoding: 638 -1 638
+Encoding: 703 -1 638
 Width: 845
 Flags: HMW
 LayerCount: 2
@@ -32166,7 +32164,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLUU
-Encoding: 639 -1 639
+Encoding: 704 -1 639
 Width: 687
 Flags: HMW
 LayerCount: 2
@@ -32329,7 +32327,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLUU
-Encoding: 640 -1 640
+Encoding: 705 -1 640
 Width: 845
 Flags: HMW
 LayerCount: 2
@@ -32483,7 +32481,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKE
-Encoding: 641 -1 641
+Encoding: 706 -1 641
 Width: 405
 Flags: HMW
 LayerCount: 2
@@ -32589,7 +32587,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHE
-Encoding: 642 -1 642
+Encoding: 707 -1 642
 Width: 610
 Flags: HMW
 LayerCount: 2
@@ -32734,7 +32732,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGE
-Encoding: 643 -1 643
+Encoding: 708 -1 643
 Width: 409
 Flags: HMW
 LayerCount: 2
@@ -32818,7 +32816,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHE
-Encoding: 644 -1 644
+Encoding: 709 -1 644
 Width: 577
 Flags: HMW
 LayerCount: 2
@@ -32972,7 +32970,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGE
-Encoding: 645 -1 645
+Encoding: 710 -1 645
 Width: 679
 Flags: HMW
 LayerCount: 2
@@ -33133,7 +33131,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCE
-Encoding: 646 -1 646
+Encoding: 711 -1 646
 Width: 503
 Flags: HMW
 LayerCount: 2
@@ -33261,7 +33259,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHE
-Encoding: 647 -1 647
+Encoding: 712 -1 647
 Width: 524
 Flags: HMW
 LayerCount: 2
@@ -33407,7 +33405,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJE
-Encoding: 648 -1 648
+Encoding: 713 -1 648
 Width: 542
 Flags: HMW
 LayerCount: 2
@@ -33538,7 +33536,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHE
-Encoding: 649 -1 649
+Encoding: 714 -1 649
 Width: 709
 Flags: HMW
 LayerCount: 2
@@ -33694,7 +33692,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYE
-Encoding: 650 -1 650
+Encoding: 715 -1 650
 Width: 815
 Flags: HMW
 LayerCount: 2
@@ -33857,7 +33855,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTE
-Encoding: 651 -1 651
+Encoding: 716 -1 651
 Width: 484
 Flags: HMW
 LayerCount: 2
@@ -34008,7 +34006,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHE
-Encoding: 652 -1 652
+Encoding: 717 -1 652
 Width: 383
 Flags: HMW
 LayerCount: 2
@@ -34115,7 +34113,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDE
-Encoding: 653 -1 653
+Encoding: 718 -1 653
 Width: 572
 Flags: HMW
 LayerCount: 2
@@ -34238,7 +34236,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHE
-Encoding: 654 -1 654
+Encoding: 719 -1 654
 Width: 572
 Flags: HMW
 LayerCount: 2
@@ -34375,7 +34373,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNE
-Encoding: 655 -1 655
+Encoding: 720 -1 655
 Width: 538
 Flags: HMW
 LayerCount: 2
@@ -34513,7 +34511,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTE
-Encoding: 656 -1 656
+Encoding: 721 -1 656
 Width: 445
 Flags: HMW
 LayerCount: 2
@@ -34611,7 +34609,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHE
-Encoding: 657 -1 657
+Encoding: 722 -1 657
 Width: 503
 Flags: HMW
 LayerCount: 2
@@ -34749,7 +34747,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDE
-Encoding: 658 -1 658
+Encoding: 723 -1 658
 Width: 503
 Flags: HMW
 LayerCount: 2
@@ -34856,7 +34854,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHE
-Encoding: 659 -1 659
+Encoding: 724 -1 659
 Width: 503
 Flags: HMW
 LayerCount: 2
@@ -34977,7 +34975,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNE
-Encoding: 660 -1 660
+Encoding: 725 -1 660
 Width: 486
 Flags: HMW
 LayerCount: 2
@@ -35079,7 +35077,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPE
-Encoding: 661 -1 661
+Encoding: 726 -1 661
 Width: 474
 Flags: HMW
 LayerCount: 2
@@ -35201,7 +35199,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHE
-Encoding: 662 -1 662
+Encoding: 727 -1 662
 Width: 479
 Flags: HMW
 LayerCount: 2
@@ -35337,7 +35335,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBE
-Encoding: 663 -1 663
+Encoding: 728 -1 663
 Width: 499
 Flags: HMW
 LayerCount: 2
@@ -35462,7 +35460,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHE
-Encoding: 664 -1 664
+Encoding: 729 -1 664
 Width: 496
 Flags: HMW
 LayerCount: 2
@@ -35601,7 +35599,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knME
-Encoding: 665 -1 665
+Encoding: 730 -1 665
 Width: 649
 Flags: HMW
 LayerCount: 2
@@ -35738,7 +35736,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYE
-Encoding: 666 -1 666
+Encoding: 731 -1 666
 Width: 726
 Flags: HMW
 LayerCount: 2
@@ -35876,7 +35874,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRE
-Encoding: 667 -1 667
+Encoding: 732 -1 667
 Width: 383
 Flags: HMW
 LayerCount: 2
@@ -35966,7 +35964,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLE
-Encoding: 668 -1 668
+Encoding: 733 -1 668
 Width: 430
 Flags: HMW
 LayerCount: 2
@@ -36076,7 +36074,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVE
-Encoding: 669 -1 669
+Encoding: 734 -1 669
 Width: 482
 Flags: HMW
 LayerCount: 2
@@ -36187,7 +36185,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHE
-Encoding: 670 -1 670
+Encoding: 735 -1 670
 Width: 436
 Flags: HMW
 LayerCount: 2
@@ -36293,7 +36291,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSE
-Encoding: 671 -1 671
+Encoding: 736 -1 671
 Width: 506
 Flags: HMW
 LayerCount: 2
@@ -36420,7 +36418,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSE
-Encoding: 672 -1 672
+Encoding: 737 -1 672
 Width: 448
 Flags: HMW
 LayerCount: 2
@@ -36529,7 +36527,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHE
-Encoding: 673 -1 673
+Encoding: 738 -1 673
 Width: 461
 Flags: HMW
 LayerCount: 2
@@ -36652,7 +36650,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRE
-Encoding: 674 -1 674
+Encoding: 739 -1 674
 Width: 652
 Flags: HMW
 LayerCount: 2
@@ -36830,7 +36828,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLE
-Encoding: 675 -1 675
+Encoding: 740 -1 675
 Width: 448
 Flags: HMW
 LayerCount: 2
@@ -36953,7 +36951,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLE
-Encoding: 676 -1 676
+Encoding: 741 -1 676
 Width: 662
 Flags: HMW
 LayerCount: 2
@@ -37118,7 +37116,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKO
-Encoding: 677 -1 677
+Encoding: 742 -1 677
 Width: 769
 Flags: HMW
 LayerCount: 2
@@ -37280,7 +37278,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHO
-Encoding: 678 -1 678
+Encoding: 743 -1 678
 Width: 855
 Flags: HMW
 LayerCount: 2
@@ -37482,7 +37480,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGO
-Encoding: 679 -1 679
+Encoding: 744 -1 679
 Width: 767
 Flags: HMW
 LayerCount: 2
@@ -37622,7 +37620,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHO
-Encoding: 680 -1 680
+Encoding: 745 -1 680
 Width: 929
 Flags: HMW
 LayerCount: 2
@@ -37832,7 +37830,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGO
-Encoding: 681 -1 681
+Encoding: 746 -1 681
 Width: 978
 Flags: HMW
 LayerCount: 2
@@ -38053,7 +38051,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCO
-Encoding: 682 -1 682
+Encoding: 747 -1 682
 Width: 856
 Flags: HMW
 LayerCount: 2
@@ -38236,7 +38234,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHO
-Encoding: 683 -1 683
+Encoding: 748 -1 683
 Width: 853
 Flags: HMW
 LayerCount: 2
@@ -38438,7 +38436,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJO
-Encoding: 684 -1 684
+Encoding: 749 -1 684
 Width: 857
 Flags: HMW
 LayerCount: 2
@@ -38625,7 +38623,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHO
-Encoding: 685 -1 685
+Encoding: 750 -1 685
 Width: 1024
 Flags: HMW
 LayerCount: 2
@@ -38837,7 +38835,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYO
-Encoding: 686 -1 686
+Encoding: 751 -1 686
 Width: 1018
 Flags: HMW
 LayerCount: 2
@@ -39035,7 +39033,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTO
-Encoding: 687 -1 687
+Encoding: 752 -1 687
 Width: 870
 Flags: HMW
 LayerCount: 2
@@ -39242,7 +39240,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHO
-Encoding: 688 -1 688
+Encoding: 753 -1 688
 Width: 724
 Flags: HMW
 LayerCount: 2
@@ -39405,7 +39403,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDO
-Encoding: 689 -1 689
+Encoding: 754 -1 689
 Width: 903
 Flags: HMW
 LayerCount: 2
@@ -39584,7 +39582,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHO
-Encoding: 690 -1 690
+Encoding: 755 -1 690
 Width: 903
 Flags: HMW
 LayerCount: 2
@@ -39777,7 +39775,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNO
-Encoding: 691 -1 691
+Encoding: 756 -1 691
 Width: 803
 Flags: HMW
 LayerCount: 2
@@ -39973,7 +39971,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTO
-Encoding: 692 -1 692
+Encoding: 757 -1 692
 Width: 774
 Flags: HMW
 LayerCount: 2
@@ -40127,7 +40125,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHO
-Encoding: 693 -1 693
+Encoding: 758 -1 693
 Width: 841
 Flags: HMW
 LayerCount: 2
@@ -40319,7 +40317,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDO
-Encoding: 694 -1 694
+Encoding: 759 -1 694
 Width: 841
 Flags: HMW
 LayerCount: 2
@@ -40480,7 +40478,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHO
-Encoding: 695 -1 695
+Encoding: 760 -1 695
 Width: 841
 Flags: HMW
 LayerCount: 2
@@ -40655,7 +40653,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNO
-Encoding: 696 -1 696
+Encoding: 761 -1 696
 Width: 831
 Flags: HMW
 LayerCount: 2
@@ -40811,7 +40809,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPO
-Encoding: 697 -1 697
+Encoding: 762 -1 697
 Width: 861
 Flags: HMW
 LayerCount: 2
@@ -40993,7 +40991,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHO
-Encoding: 698 -1 698
+Encoding: 763 -1 698
 Width: 861
 Flags: HMW
 LayerCount: 2
@@ -41189,7 +41187,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBO
-Encoding: 699 -1 699
+Encoding: 764 -1 699
 Width: 822
 Flags: HMW
 LayerCount: 2
@@ -41368,7 +41366,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHO
-Encoding: 700 -1 700
+Encoding: 765 -1 700
 Width: 822
 Flags: HMW
 LayerCount: 2
@@ -41561,7 +41559,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMO
-Encoding: 701 -1 701
+Encoding: 766 -1 701
 Width: 1011
 Flags: HMW
 LayerCount: 2
@@ -41752,7 +41750,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYO
-Encoding: 702 -1 702
+Encoding: 767 -1 702
 Width: 1078
 Flags: HMW
 LayerCount: 2
@@ -41944,7 +41942,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRO
-Encoding: 703 -1 703
+Encoding: 768 -1 703
 Width: 724
 Flags: HMW
 LayerCount: 2
@@ -42090,7 +42088,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLO
-Encoding: 704 -1 704
+Encoding: 769 -1 704
 Width: 748
 Flags: HMW
 LayerCount: 2
@@ -42256,7 +42254,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVO
-Encoding: 705 -1 705
+Encoding: 770 -1 705
 Width: 861
 Flags: HMW
 LayerCount: 2
@@ -42427,7 +42425,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHO
-Encoding: 706 -1 706
+Encoding: 771 -1 706
 Width: 793
 Flags: HMW
 LayerCount: 2
@@ -42589,7 +42587,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSO
-Encoding: 707 -1 707
+Encoding: 772 -1 707
 Width: 853
 Flags: HMW
 LayerCount: 2
@@ -42772,7 +42770,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSO
-Encoding: 708 -1 708
+Encoding: 773 -1 708
 Width: 806
 Flags: HMW
 LayerCount: 2
@@ -42938,7 +42936,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHO
-Encoding: 709 -1 709
+Encoding: 774 -1 709
 Width: 826
 Flags: HMW
 LayerCount: 2
@@ -43117,7 +43115,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRO
-Encoding: 710 -1 710
+Encoding: 775 -1 710
 Width: 932
 Flags: HMW
 LayerCount: 2
@@ -43355,7 +43353,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLO
-Encoding: 711 -1 711
+Encoding: 776 -1 711
 Width: 720
 Flags: HMW
 LayerCount: 2
@@ -43534,7 +43532,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLO
-Encoding: 712 -1 712
+Encoding: 777 -1 712
 Width: 932
 Flags: HMW
 LayerCount: 2
@@ -43759,7 +43757,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKAU
-Encoding: 713 -1 713
+Encoding: 778 -1 713
 Width: 625
 Flags: HMW
 LayerCount: 2
@@ -43877,7 +43875,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knKHAU
-Encoding: 714 -1 714
+Encoding: 779 -1 714
 Width: 779
 Flags: HMW
 LayerCount: 2
@@ -44039,7 +44037,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGAU
-Encoding: 715 -1 715
+Encoding: 780 -1 715
 Width: 619
 Flags: HMW
 LayerCount: 2
@@ -44132,7 +44130,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knGHAU
-Encoding: 716 -1 716
+Encoding: 781 -1 716
 Width: 810
 Flags: HMW
 LayerCount: 2
@@ -44299,7 +44297,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNGAU
-Encoding: 717 -1 717
+Encoding: 782 -1 717
 Width: 743
 Flags: HMW
 LayerCount: 2
@@ -44454,7 +44452,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCAU
-Encoding: 718 -1 718
+Encoding: 783 -1 718
 Width: 728
 Flags: HMW
 LayerCount: 2
@@ -44596,7 +44594,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knCHAU
-Encoding: 719 -1 719
+Encoding: 784 -1 719
 Width: 722
 Flags: HMW
 LayerCount: 2
@@ -44757,7 +44755,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJAU
-Encoding: 720 -1 720
+Encoding: 785 -1 720
 Width: 733
 Flags: HMW
 LayerCount: 2
@@ -44901,7 +44899,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knJHAU
-Encoding: 721 -1 721
+Encoding: 786 -1 721
 Width: 955
 Flags: HMW
 LayerCount: 2
@@ -45086,7 +45084,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNYAU
-Encoding: 722 -1 722
+Encoding: 787 -1 722
 Width: 869
 Flags: HMW
 LayerCount: 2
@@ -45241,7 +45239,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTAU
-Encoding: 723 -1 723
+Encoding: 788 -1 723
 Width: 729
 Flags: HMW
 LayerCount: 2
@@ -45412,7 +45410,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTTHAU
-Encoding: 724 -1 724
+Encoding: 789 -1 724
 Width: 586
 Flags: HMW
 LayerCount: 2
@@ -45528,7 +45526,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDAU
-Encoding: 725 -1 725
+Encoding: 790 -1 725
 Width: 760
 Flags: HMW
 LayerCount: 2
@@ -45664,7 +45662,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDDHAU
-Encoding: 726 -1 726
+Encoding: 791 -1 726
 Width: 760
 Flags: HMW
 LayerCount: 2
@@ -45814,7 +45812,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNNAU
-Encoding: 727 -1 727
+Encoding: 792 -1 727
 Width: 677
 Flags: HMW
 LayerCount: 2
@@ -45965,7 +45963,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTAU
-Encoding: 728 -1 728
+Encoding: 793 -1 728
 Width: 636
 Flags: HMW
 LayerCount: 2
@@ -46074,7 +46072,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knTHAU
-Encoding: 729 -1 729
+Encoding: 794 -1 729
 Width: 687
 Flags: HMW
 LayerCount: 2
@@ -46224,7 +46222,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDAU
-Encoding: 730 -1 730
+Encoding: 795 -1 730
 Width: 687
 Flags: HMW
 LayerCount: 2
@@ -46343,7 +46341,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knDHAU
-Encoding: 731 -1 731
+Encoding: 796 -1 731
 Width: 687
 Flags: HMW
 LayerCount: 2
@@ -46476,7 +46474,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knNAU
-Encoding: 732 -1 732
+Encoding: 797 -1 732
 Width: 678
 Flags: HMW
 LayerCount: 2
@@ -46593,7 +46591,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPAU
-Encoding: 733 -1 733
+Encoding: 798 -1 733
 Width: 701
 Flags: HMW
 LayerCount: 2
@@ -46726,7 +46724,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knPHAU
-Encoding: 734 -1 734
+Encoding: 799 -1 734
 Width: 701
 Flags: HMW
 LayerCount: 2
@@ -46873,7 +46871,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBAU
-Encoding: 735 -1 735
+Encoding: 800 -1 735
 Width: 701
 Flags: HMW
 LayerCount: 2
@@ -47013,7 +47011,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knBHAU
-Encoding: 736 -1 736
+Encoding: 801 -1 736
 Width: 701
 Flags: HMW
 LayerCount: 2
@@ -47167,7 +47165,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knMAU
-Encoding: 737 -1 737
+Encoding: 802 -1 737
 Width: 896
 Flags: HMW
 LayerCount: 2
@@ -47339,7 +47337,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knYAU
-Encoding: 738 -1 738
+Encoding: 803 -1 738
 Width: 1003
 Flags: HMW
 LayerCount: 2
@@ -47508,7 +47506,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRAU
-Encoding: 739 -1 739
+Encoding: 804 -1 739
 Width: 585
 Flags: HMW
 LayerCount: 2
@@ -47607,7 +47605,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLAU
-Encoding: 740 -1 740
+Encoding: 805 -1 740
 Width: 666
 Flags: HMW
 LayerCount: 2
@@ -47738,7 +47736,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knVAU
-Encoding: 741 -1 741
+Encoding: 806 -1 741
 Width: 686
 Flags: HMW
 LayerCount: 2
@@ -47860,7 +47858,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSHAU
-Encoding: 742 -1 742
+Encoding: 807 -1 742
 Width: 658
 Flags: HMW
 LayerCount: 2
@@ -47977,7 +47975,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSSAU
-Encoding: 743 -1 743
+Encoding: 808 -1 743
 Width: 683
 Flags: HMW
 LayerCount: 2
@@ -48115,7 +48113,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knSAU
-Encoding: 744 -1 744
+Encoding: 809 -1 744
 Width: 646
 Flags: HMW
 LayerCount: 2
@@ -48234,7 +48232,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knHAU
-Encoding: 745 -1 745
+Encoding: 810 -1 745
 Width: 642
 Flags: HMW
 LayerCount: 2
@@ -48368,7 +48366,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knRRAU
-Encoding: 746 -1 746
+Encoding: 811 -1 746
 Width: 695
 Flags: HMW
 LayerCount: 2
@@ -48535,7 +48533,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLAU
-Encoding: 747 -1 747
+Encoding: 812 -1 747
 Width: 581
 Flags: HMW
 LayerCount: 2
@@ -48673,7 +48671,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knLLLAU
-Encoding: 748 -1 748
+Encoding: 813 -1 748
 Width: 695
 Flags: HMW
 LayerCount: 2
@@ -48828,7 +48826,7 @@ Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" k
 EndChar
 
 StartChar: knK
-Encoding: 749 -1 749
+Encoding: 814 -1 749
 Width: 599
 Flags: HMW
 LayerCount: 2
@@ -48947,7 +48945,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knKA knVira
 EndChar
 
 StartChar: knKH
-Encoding: 750 -1 750
+Encoding: 815 -1 750
 Width: 709
 Flags: HMW
 LayerCount: 2
@@ -49101,7 +49099,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knKHA knVir
 EndChar
 
 StartChar: knG
-Encoding: 751 -1 751
+Encoding: 816 -1 751
 Width: 565
 Flags: HMW
 LayerCount: 2
@@ -49197,7 +49195,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knGA knVira
 EndChar
 
 StartChar: knGH
-Encoding: 752 -1 752
+Encoding: 817 -1 752
 Width: 793
 Flags: HMW
 LayerCount: 2
@@ -49361,7 +49359,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knGHA knVir
 EndChar
 
 StartChar: knNG
-Encoding: 753 -1 753
+Encoding: 818 -1 753
 Width: 682
 Flags: HMW
 LayerCount: 2
@@ -49514,7 +49512,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knNGA knVir
 EndChar
 
 StartChar: knC
-Encoding: 754 -1 754
+Encoding: 819 -1 754
 Width: 691
 Flags: HMW
 LayerCount: 2
@@ -49655,7 +49653,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knCA knVira
 EndChar
 
 StartChar: knCH
-Encoding: 755 -1 755
+Encoding: 820 -1 755
 Width: 691
 Flags: HMW
 LayerCount: 2
@@ -49814,7 +49812,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knCHA knVir
 EndChar
 
 StartChar: knJ
-Encoding: 756 -1 756
+Encoding: 821 -1 756
 Width: 656
 Flags: HMW
 LayerCount: 2
@@ -49957,7 +49955,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knJA knVira
 EndChar
 
 StartChar: knJH
-Encoding: 757 -1 757
+Encoding: 822 -1 757
 Width: 898
 Flags: HMW
 LayerCount: 2
@@ -50135,7 +50133,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knJHA knVir
 EndChar
 
 StartChar: knNY
-Encoding: 758 -1 758
+Encoding: 823 -1 758
 Width: 823
 Flags: HMW
 LayerCount: 2
@@ -50287,7 +50285,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knNYA knVir
 EndChar
 
 StartChar: knTT
-Encoding: 759 -1 759
+Encoding: 824 -1 759
 Width: 683
 Flags: HMW
 LayerCount: 2
@@ -50454,7 +50452,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knTTA knVir
 EndChar
 
 StartChar: knTTH
-Encoding: 760 -1 760
+Encoding: 825 -1 760
 Width: 551
 Flags: HMW
 LayerCount: 2
@@ -50570,7 +50568,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knTTHA knVi
 EndChar
 
 StartChar: knDD
-Encoding: 761 -1 761
+Encoding: 826 -1 761
 Width: 707
 Flags: HMW
 LayerCount: 2
@@ -50706,7 +50704,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knDDA knVir
 EndChar
 
 StartChar: knDDH
-Encoding: 762 -1 762
+Encoding: 827 -1 762
 Width: 707
 Flags: HMW
 LayerCount: 2
@@ -50856,7 +50854,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knDDHA knVi
 EndChar
 
 StartChar: knNN
-Encoding: 763 -1 763
+Encoding: 828 -1 763
 Width: 660
 Flags: HMW
 LayerCount: 2
@@ -51007,7 +51005,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knNNA knVir
 EndChar
 
 StartChar: knT
-Encoding: 764 -1 764
+Encoding: 829 -1 764
 Width: 588
 Flags: HMW
 LayerCount: 2
@@ -51112,7 +51110,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knTA knVira
 EndChar
 
 StartChar: knTH
-Encoding: 765 -1 765
+Encoding: 830 -1 765
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -51260,7 +51258,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knTHA knVir
 EndChar
 
 StartChar: knD
-Encoding: 766 -1 766
+Encoding: 831 -1 766
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -51377,7 +51375,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knDA knVira
 EndChar
 
 StartChar: knDH
-Encoding: 767 -1 767
+Encoding: 832 -1 767
 Width: 661
 Flags: HMW
 LayerCount: 2
@@ -51508,7 +51506,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knDHA knVir
 EndChar
 
 StartChar: knN
-Encoding: 768 -1 768
+Encoding: 833 -1 768
 Width: 637
 Flags: HMW
 LayerCount: 2
@@ -51620,7 +51618,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knNA knVira
 EndChar
 
 StartChar: knP
-Encoding: 769 -1 769
+Encoding: 834 -1 769
 Width: 679
 Flags: HMW
 LayerCount: 2
@@ -51750,7 +51748,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knPA knVira
 EndChar
 
 StartChar: knPH
-Encoding: 770 -1 770
+Encoding: 835 -1 770
 Width: 679
 Flags: HMW
 LayerCount: 2
@@ -51894,7 +51892,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knPHA knVir
 EndChar
 
 StartChar: knB
-Encoding: 771 -1 771
+Encoding: 836 -1 771
 Width: 668
 Flags: HMW
 LayerCount: 2
@@ -52027,7 +52025,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knBA knVira
 EndChar
 
 StartChar: knBH
-Encoding: 772 -1 772
+Encoding: 837 -1 772
 Width: 668
 Flags: HMW
 LayerCount: 2
@@ -52174,7 +52172,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knBHA knVir
 EndChar
 
 StartChar: knM
-Encoding: 773 -1 773
+Encoding: 838 -1 773
 Width: 854
 Flags: HMW
 LayerCount: 2
@@ -52342,7 +52340,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knMA knVira
 EndChar
 
 StartChar: knY
-Encoding: 774 -1 774
+Encoding: 839 -1 774
 Width: 931
 Flags: HMW
 LayerCount: 2
@@ -52507,7 +52505,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knYA knVira
 EndChar
 
 StartChar: knR
-Encoding: 775 -1 775
+Encoding: 840 -1 775
 Width: 534
 Flags: HMW
 LayerCount: 2
@@ -52608,7 +52606,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knRA knVira
 EndChar
 
 StartChar: knL
-Encoding: 776 -1 776
+Encoding: 841 -1 776
 Width: 632
 Flags: HMW
 LayerCount: 2
@@ -52735,7 +52733,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knLA knVira
 EndChar
 
 StartChar: knV
-Encoding: 777 -1 777
+Encoding: 842 -1 777
 Width: 642
 Flags: HMW
 LayerCount: 2
@@ -52852,7 +52850,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knVA knVira
 EndChar
 
 StartChar: knSH
-Encoding: 778 -1 778
+Encoding: 843 -1 778
 Width: 631
 Flags: HMW
 LayerCount: 2
@@ -52967,7 +52965,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knSHA knVir
 EndChar
 
 StartChar: knSS
-Encoding: 779 -1 779
+Encoding: 844 -1 779
 Width: 665
 Flags: HMW
 LayerCount: 2
@@ -53105,7 +53103,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knSSA knVir
 EndChar
 
 StartChar: knS
-Encoding: 780 -1 780
+Encoding: 845 -1 780
 Width: 632
 Flags: HMW
 LayerCount: 2
@@ -53222,7 +53220,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knSA knVira
 EndChar
 
 StartChar: knH
-Encoding: 781 -1 781
+Encoding: 846 -1 781
 Width: 595
 Flags: HMW
 LayerCount: 2
@@ -53354,7 +53352,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knHA knVira
 EndChar
 
 StartChar: knRR
-Encoding: 782 -1 782
+Encoding: 847 -1 782
 Width: 669
 Flags: HMW
 LayerCount: 2
@@ -53509,7 +53507,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knRRA knVir
 EndChar
 
 StartChar: knLL
-Encoding: 783 -1 783
+Encoding: 848 -1 783
 Width: 545
 Flags: HMW
 LayerCount: 2
@@ -53647,7 +53645,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knLLA knVir
 EndChar
 
 StartChar: knLLL
-Encoding: 784 -1 784
+Encoding: 849 -1 784
 Width: 669
 Flags: HMW
 LayerCount: 2
@@ -53790,7 +53788,7 @@ Ligature2: "Ambarisha-Regular-'haln' Halant Forms lookup 7 subtable" knLLLA knVi
 EndChar
 
 StartChar: knKA.base
-Encoding: 785 -1 785
+Encoding: 850 -1 785
 Width: 395
 Flags: HMW
 LayerCount: 2
@@ -53868,7 +53866,7 @@ Validated: 37
 EndChar
 
 StartChar: knKHA.base
-Encoding: 786 -1 786
+Encoding: 851 -1 786
 Width: 508
 Flags: HMW
 LayerCount: 2
@@ -53981,7 +53979,7 @@ Validated: 37
 EndChar
 
 StartChar: knGA.base
-Encoding: 787 -1 787
+Encoding: 852 -1 787
 Width: 387
 Flags: HMW
 LayerCount: 2
@@ -54036,7 +54034,7 @@ Validated: 37
 EndChar
 
 StartChar: knGHA.base
-Encoding: 788 -1 788
+Encoding: 853 -1 788
 Width: 570
 Flags: HMW
 LayerCount: 2
@@ -54159,7 +54157,7 @@ Validated: 37
 EndChar
 
 StartChar: knNGA.base
-Encoding: 789 -1 789
+Encoding: 854 -1 789
 Width: 504
 Flags: HMW
 LayerCount: 2
@@ -54271,7 +54269,7 @@ Validated: 37
 EndChar
 
 StartChar: knCA.base
-Encoding: 790 -1 790
+Encoding: 855 -1 790
 Width: 488
 Flags: HMW
 LayerCount: 2
@@ -54371,7 +54369,7 @@ Validated: 37
 EndChar
 
 StartChar: knCHA.base
-Encoding: 791 -1 791
+Encoding: 856 -1 791
 Width: 502
 Flags: HMW
 LayerCount: 2
@@ -54491,7 +54489,7 @@ Validated: 37
 EndChar
 
 StartChar: knJA.base
-Encoding: 792 -1 792
+Encoding: 857 -1 792
 Width: 472
 Flags: HMW
 LayerCount: 2
@@ -54594,7 +54592,7 @@ Validated: 37
 EndChar
 
 StartChar: knJHA.base
-Encoding: 793 -1 793
+Encoding: 858 -1 793
 Width: 695
 Flags: HMW
 LayerCount: 2
@@ -54734,7 +54732,7 @@ Validated: 37
 EndChar
 
 StartChar: knNYA.base
-Encoding: 794 -1 794
+Encoding: 859 -1 794
 Width: 607
 Flags: HMW
 LayerCount: 2
@@ -54847,7 +54845,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTA.base
-Encoding: 795 -1 795
+Encoding: 860 -1 795
 Width: 482
 Flags: HMW
 LayerCount: 2
@@ -54975,7 +54973,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTHA.base
-Encoding: 796 -1 796
+Encoding: 861 -1 796
 Width: 347
 Flags: HMW
 LayerCount: 2
@@ -55054,7 +55052,7 @@ Validated: 5
 EndChar
 
 StartChar: knDDA.base
-Encoding: 797 -1 797
+Encoding: 862 -1 797
 Width: 535
 Flags: HMW
 LayerCount: 2
@@ -55151,7 +55149,7 @@ Validated: 37
 EndChar
 
 StartChar: knDDHA.base
-Encoding: 798 -1 798
+Encoding: 863 -1 798
 Width: 538
 Flags: HMW
 LayerCount: 2
@@ -55262,7 +55260,7 @@ Validated: 37
 EndChar
 
 StartChar: knNNA.base
-Encoding: 799 -1 799
+Encoding: 864 -1 799
 Width: 445
 Flags: HMW
 LayerCount: 2
@@ -55374,7 +55372,7 @@ Validated: 37
 EndChar
 
 StartChar: knTA.base
-Encoding: 800 -1 800
+Encoding: 865 -1 800
 Width: 393
 Flags: HMW
 LayerCount: 2
@@ -55440,7 +55438,7 @@ Validated: 5
 EndChar
 
 StartChar: knTHA.base
-Encoding: 801 -1 801
+Encoding: 866 -1 801
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -55549,7 +55547,7 @@ Validated: 37
 EndChar
 
 StartChar: knDA.base
-Encoding: 802 -1 802
+Encoding: 867 -1 802
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -55627,7 +55625,7 @@ Validated: 37
 EndChar
 
 StartChar: knDHA.base
-Encoding: 803 -1 803
+Encoding: 868 -1 803
 Width: 480
 Flags: HMW
 LayerCount: 2
@@ -55719,7 +55717,7 @@ Validated: 37
 EndChar
 
 StartChar: knNA.base
-Encoding: 804 -1 804
+Encoding: 869 -1 804
 Width: 459
 Flags: HMW
 LayerCount: 2
@@ -55790,7 +55788,7 @@ Validated: 37
 EndChar
 
 StartChar: knPA.base
-Encoding: 805 -1 805
+Encoding: 870 -1 805
 Width: 476
 Flags: HMW
 LayerCount: 2
@@ -55881,7 +55879,7 @@ Validated: 37
 EndChar
 
 StartChar: knPHA.base
-Encoding: 806 -1 806
+Encoding: 871 -1 806
 Width: 472
 Flags: HMW
 LayerCount: 2
@@ -55986,7 +55984,7 @@ Validated: 37
 EndChar
 
 StartChar: knBA.base
-Encoding: 807 -1 807
+Encoding: 872 -1 807
 Width: 461
 Flags: HMW
 LayerCount: 2
@@ -56082,7 +56080,7 @@ Validated: 37
 EndChar
 
 StartChar: knBHA.base
-Encoding: 808 -1 808
+Encoding: 873 -1 808
 Width: 458
 Flags: HMW
 LayerCount: 2
@@ -56192,7 +56190,7 @@ Validated: 37
 EndChar
 
 StartChar: knMA.base
-Encoding: 809 -1 809
+Encoding: 874 -1 809
 Width: 650
 Flags: HMW
 LayerCount: 2
@@ -56321,7 +56319,7 @@ Validated: 37
 EndChar
 
 StartChar: knYA.base
-Encoding: 810 -1 810
+Encoding: 875 -1 810
 Width: 719
 Flags: HMW
 LayerCount: 2
@@ -56447,7 +56445,7 @@ Validated: 37
 EndChar
 
 StartChar: knRA.base
-Encoding: 811 -1 811
+Encoding: 876 -1 811
 Width: 342
 Flags: HMW
 LayerCount: 2
@@ -56509,7 +56507,7 @@ Validated: 5
 EndChar
 
 StartChar: knLA.base
-Encoding: 812 -1 812
+Encoding: 877 -1 812
 Width: 403
 Flags: HMW
 LayerCount: 2
@@ -56597,7 +56595,7 @@ Validated: 37
 EndChar
 
 StartChar: knVA.base
-Encoding: 813 -1 813
+Encoding: 878 -1 813
 Width: 471
 Flags: HMW
 LayerCount: 2
@@ -56677,7 +56675,7 @@ Validated: 5
 EndChar
 
 StartChar: knSHA.base
-Encoding: 814 -1 814
+Encoding: 879 -1 814
 Width: 456
 Flags: HMW
 LayerCount: 2
@@ -56753,7 +56751,7 @@ Validated: 37
 EndChar
 
 StartChar: knSSA.base
-Encoding: 815 -1 815
+Encoding: 880 -1 815
 Width: 473
 Flags: HMW
 LayerCount: 2
@@ -56854,7 +56852,7 @@ Validated: 37
 EndChar
 
 StartChar: knSA.base
-Encoding: 816 -1 816
+Encoding: 881 -1 816
 Width: 449
 Flags: HMW
 LayerCount: 2
@@ -56932,7 +56930,7 @@ Validated: 37
 EndChar
 
 StartChar: knHA.base
-Encoding: 817 -1 817
+Encoding: 882 -1 817
 Width: 464
 Flags: HMW
 LayerCount: 2
@@ -57025,7 +57023,7 @@ Validated: 37
 EndChar
 
 StartChar: knRRA.base
-Encoding: 818 -1 818
+Encoding: 883 -1 818
 Width: 465
 Flags: HMW
 LayerCount: 2
@@ -57146,7 +57144,7 @@ Validated: 37
 EndChar
 
 StartChar: knLLA.base
-Encoding: 819 -1 819
+Encoding: 884 -1 819
 Width: 366
 Flags: HMW
 LayerCount: 2
@@ -57245,7 +57243,7 @@ Validated: 5
 EndChar
 
 StartChar: knLLLA.base
-Encoding: 820 -1 820
+Encoding: 885 -1 820
 Width: 465
 Flags: HMW
 LayerCount: 2
@@ -57354,7 +57352,7 @@ Validated: 37
 EndChar
 
 StartChar: knSSAc2.kssa
-Encoding: 821 -1 821
+Encoding: 886 -1 821
 Width: 0
 GlyphClass: 4
 Flags: HMW
@@ -57425,7 +57423,7 @@ Validated: 37
 EndChar
 
 StartChar: knsignvR.following
-Encoding: 822 -1 822
+Encoding: 887 -1 822
 Width: 214
 GlyphClass: 4
 Flags: HMW
@@ -57488,7 +57486,7 @@ Validated: 33
 EndChar
 
 StartChar: knsignvRR.following
-Encoding: 823 -1 823
+Encoding: 888 -1 823
 Width: 436
 GlyphClass: 4
 Flags: HMW
@@ -57592,7 +57590,7 @@ Validated: 37
 EndChar
 
 StartChar: knAIlengthmark.following
-Encoding: 824 -1 824
+Encoding: 889 -1 824
 Width: 221
 GlyphClass: 4
 Flags: HMW
@@ -57668,7 +57666,7 @@ Validated: 37
 EndChar
 
 StartChar: knKAc2.following
-Encoding: 825 -1 825
+Encoding: 890 -1 825
 Width: 285
 GlyphClass: 4
 Flags: HMW
@@ -57729,7 +57727,7 @@ Validated: 37
 EndChar
 
 StartChar: knKHAc2.following
-Encoding: 826 -1 826
+Encoding: 891 -1 826
 Width: 341
 GlyphClass: 4
 Flags: HMW
@@ -57822,7 +57820,7 @@ Validated: 37
 EndChar
 
 StartChar: knGAc2.following
-Encoding: 827 -1 827
+Encoding: 892 -1 827
 Width: 214
 GlyphClass: 4
 Flags: HMW
@@ -57860,7 +57858,7 @@ Validated: 1
 EndChar
 
 StartChar: knGHAc2.following
-Encoding: 828 -1 828
+Encoding: 893 -1 828
 Width: 442
 GlyphClass: 4
 Flags: HMW
@@ -57945,7 +57943,7 @@ Validated: 37
 EndChar
 
 StartChar: knNGAc2.following
-Encoding: 829 -1 829
+Encoding: 894 -1 829
 Width: 292
 GlyphClass: 4
 Flags: HMW
@@ -58033,7 +58031,7 @@ Validated: 37
 EndChar
 
 StartChar: knCAc2.following
-Encoding: 830 -1 830
+Encoding: 895 -1 830
 Width: 328
 GlyphClass: 4
 Flags: HMW
@@ -58126,7 +58124,7 @@ Validated: 37
 EndChar
 
 StartChar: knCHAc2.following
-Encoding: 831 -1 831
+Encoding: 896 -1 831
 Width: 308
 GlyphClass: 4
 Flags: HMW
@@ -58233,7 +58231,7 @@ Validated: 37
 EndChar
 
 StartChar: knJAc2.following
-Encoding: 832 -1 832
+Encoding: 897 -1 832
 Width: 266
 GlyphClass: 4
 Flags: HMW
@@ -58316,7 +58314,7 @@ Validated: 37
 EndChar
 
 StartChar: knJHAc2.following
-Encoding: 833 -1 833
+Encoding: 898 -1 833
 Width: 396
 GlyphClass: 4
 Flags: HMW
@@ -58415,7 +58413,7 @@ Validated: 37
 EndChar
 
 StartChar: knNYAc2.following
-Encoding: 834 -1 834
+Encoding: 899 -1 834
 Width: 374
 GlyphClass: 4
 Flags: HMW
@@ -58506,7 +58504,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTAc2.following
-Encoding: 835 -1 835
+Encoding: 900 -1 835
 Width: 315
 GlyphClass: 4
 Flags: HMW
@@ -58610,7 +58608,7 @@ Validated: 37
 EndChar
 
 StartChar: knTTHAc2.following
-Encoding: 836 -1 836
+Encoding: 901 -1 836
 Width: 189
 GlyphClass: 4
 Flags: HMW
@@ -58655,7 +58653,7 @@ Validated: 33
 EndChar
 
 StartChar: knDDAc2.following
-Encoding: 837 -1 837
+Encoding: 902 -1 837
 Width: 304
 GlyphClass: 4
 Flags: HMW
@@ -58725,7 +58723,7 @@ Validated: 33
 EndChar
 
 StartChar: knDDHAc2.following
-Encoding: 838 -1 838
+Encoding: 903 -1 838
 Width: 307
 GlyphClass: 4
 Flags: HMW
@@ -58809,7 +58807,7 @@ Validated: 33
 EndChar
 
 StartChar: knNNAc2.following
-Encoding: 839 -1 839
+Encoding: 904 -1 839
 Width: 316
 GlyphClass: 4
 Flags: HMW
@@ -58883,7 +58881,7 @@ Validated: 33
 EndChar
 
 StartChar: knTAc2.following
-Encoding: 840 -1 840
+Encoding: 905 -1 840
 Width: 135
 GlyphClass: 4
 Flags: HMW
@@ -58926,7 +58924,7 @@ Validated: 1
 EndChar
 
 StartChar: knTHAc2.following
-Encoding: 841 -1 841
+Encoding: 906 -1 841
 Width: 278
 GlyphClass: 4
 Flags: HMW
@@ -58996,7 +58994,7 @@ Validated: 33
 EndChar
 
 StartChar: knDAc2.following
-Encoding: 842 -1 842
+Encoding: 907 -1 842
 Width: 262
 GlyphClass: 4
 Flags: HMW
@@ -59043,7 +59041,7 @@ Validated: 33
 EndChar
 
 StartChar: knDHAc2.following
-Encoding: 843 -1 843
+Encoding: 908 -1 843
 Width: 268
 GlyphClass: 4
 Flags: HMW
@@ -59104,7 +59102,7 @@ Validated: 33
 EndChar
 
 StartChar: knNAc2.following
-Encoding: 844 -1 844
+Encoding: 909 -1 844
 Width: 283
 GlyphClass: 4
 Flags: HMW
@@ -59166,7 +59164,7 @@ Validated: 37
 EndChar
 
 StartChar: knPAc2.following
-Encoding: 845 -1 845
+Encoding: 910 -1 845
 Width: 354
 GlyphClass: 4
 Flags: HMW
@@ -59222,7 +59220,7 @@ Validated: 33
 EndChar
 
 StartChar: knPHAc2.following
-Encoding: 846 -1 846
+Encoding: 911 -1 846
 Width: 352
 GlyphClass: 4
 Flags: HMW
@@ -59291,7 +59289,7 @@ Validated: 33
 EndChar
 
 StartChar: knBAc2.following
-Encoding: 847 -1 847
+Encoding: 912 -1 847
 Width: 274
 GlyphClass: 4
 Flags: HMW
@@ -59364,7 +59362,7 @@ Validated: 33
 EndChar
 
 StartChar: knBHAc2.following
-Encoding: 848 -1 848
+Encoding: 913 -1 848
 Width: 269
 GlyphClass: 4
 Flags: HMW
@@ -59450,7 +59448,7 @@ Validated: 33
 EndChar
 
 StartChar: knMAc2.following
-Encoding: 849 -1 849
+Encoding: 914 -1 849
 Width: 281
 GlyphClass: 4
 Flags: HMW
@@ -59510,7 +59508,7 @@ Validated: 33
 EndChar
 
 StartChar: knYAc2.following
-Encoding: 850 -1 850
+Encoding: 915 -1 850
 Width: 288
 GlyphClass: 4
 Flags: HMW
@@ -59564,7 +59562,7 @@ Validated: 37
 EndChar
 
 StartChar: knRAc2.following
-Encoding: 851 -1 851
+Encoding: 916 -1 851
 Width: 82
 GlyphClass: 4
 Flags: HMW
@@ -59601,7 +59599,7 @@ Validated: 33
 EndChar
 
 StartChar: knLAc2.following
-Encoding: 852 -1 852
+Encoding: 917 -1 852
 Width: 355
 GlyphClass: 4
 Flags: HMW
@@ -59658,7 +59656,7 @@ Validated: 33
 EndChar
 
 StartChar: knVAc2.following
-Encoding: 853 -1 853
+Encoding: 918 -1 853
 Width: 319
 GlyphClass: 4
 Flags: HMW
@@ -59732,7 +59730,7 @@ Validated: 5
 EndChar
 
 StartChar: knSHAc2.following
-Encoding: 854 -1 854
+Encoding: 919 -1 854
 Width: 242
 GlyphClass: 4
 Flags: HMW
@@ -59782,7 +59780,7 @@ Validated: 5
 EndChar
 
 StartChar: knSSAc2.following
-Encoding: 855 -1 855
+Encoding: 920 -1 855
 Width: 353
 GlyphClass: 4
 Flags: HMW
@@ -59855,7 +59853,7 @@ Validated: 37
 EndChar
 
 StartChar: knSAc2.following
-Encoding: 856 -1 856
+Encoding: 921 -1 856
 Width: 307
 GlyphClass: 4
 Flags: HMW
@@ -59905,7 +59903,7 @@ Validated: 33
 EndChar
 
 StartChar: knHAc2.following
-Encoding: 857 -1 857
+Encoding: 922 -1 857
 Width: 361
 GlyphClass: 4
 Flags: HMW
@@ -59977,7 +59975,7 @@ Validated: 37
 EndChar
 
 StartChar: knRRAc2.following
-Encoding: 858 -1 858
+Encoding: 923 -1 858
 Width: 323
 GlyphClass: 4
 Flags: HMW
@@ -60078,7 +60076,7 @@ Validated: 33
 EndChar
 
 StartChar: knLLAc2.following
-Encoding: 859 -1 859
+Encoding: 924 -1 859
 Width: 253
 GlyphClass: 4
 Flags: HMW
@@ -60162,7 +60160,7 @@ Validated: 37
 EndChar
 
 StartChar: knLLLAc2.following
-Encoding: 860 -1 860
+Encoding: 925 -1 860
 Width: 351
 GlyphClass: 4
 Flags: HMW
@@ -60261,7 +60259,7 @@ Validated: 33
 EndChar
 
 StartChar: knKSSAc2.following
-Encoding: 861 -1 861
+Encoding: 926 -1 861
 Width: 354
 GlyphClass: 4
 Flags: HMW
@@ -60381,7 +60379,7 @@ Validated: 37
 EndChar
 
 StartChar: knTAc2_RAc2.following
-Encoding: 862 -1 862
+Encoding: 927 -1 862
 Width: 331
 GlyphClass: 4
 Flags: HMW
@@ -60445,6 +60443,102 @@ SplineSet
  106 -291 l 1
 EndSplineSet
 Validated: 37
+EndChar
+
+StartChar: uni2000
+Encoding: 928 8192 863
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2001
+Encoding: 929 8193 864
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2002
+Encoding: 930 8194 865
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2003
+Encoding: 931 8195 866
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2004
+Encoding: 932 8196 867
+Width: 333
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2005
+Encoding: 933 8197 868
+Width: 250
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2006
+Encoding: 934 8198 869
+Width: 170
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2007
+Encoding: 935 8199 870
+Width: 345
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2008
+Encoding: 936 8200 871
+Width: 187
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2009
+Encoding: 937 8201 872
+Width: 140
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni200A
+Encoding: 938 8202 873
+Width: 100
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni200B
+Encoding: 939 8203 874
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
