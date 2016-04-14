@@ -22,24 +22,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436745016
-ModificationTime: 1460415515
+ModificationTime: 1460600762
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 90
+LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 0
+OS2TypoAscent: 58
 OS2TypoAOffset: 1
-OS2TypoDescent: 0
+OS2TypoDescent: -518
 OS2TypoDOffset: 1
-OS2TypoLinegap: 90
+OS2TypoLinegap: 0
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: 0
+HheadAscent: 58
 HheadAOffset: 1
-HheadDescent: 0
+HheadDescent: -518
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 4 0 1 "'dlig' Discretionary Ligatures lookup 0" { "'dlig' Discretionary Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
@@ -120,8 +120,8 @@ UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
-FitToEm: 0
-WinInfo: 406 14 7
+FitToEm: 1
+WinInfo: 588 14 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -20376,6 +20376,7 @@ SplineSet
  289.833333333 70.5 292 74.6666666667 292 76 c 0
 EndSplineSet
 Validated: 37
+LCarets2: 1 0
 Ligature2: "Ambarisha-Regular-'pres' Pre Base Substitutions lookup 3 subtable" knNNA knsignI
 EndChar
 
@@ -60448,7 +60449,7 @@ SplineSet
  258.833007812 -215.333007812 260 -239 260 -265 c 0
 364 -691 m 1
  357.333007812 -693 350.333007812 -694 343 -694 c 128
- 335.666992188 -694 328.333007812 -695.333007812 321 -698 c 1
+ 335.666992188 -694 328.333007812 -695.333007812 321 -698 c 5
  320.333007812 -692 318.833007812 -682 316.5 -668 c 128
  314.166992188 -654 311.666992188 -638.166992188 309 -620.5 c 128
  306.333007812 -602.833007812 303.5 -584.333007812 300.5 -565 c 128
